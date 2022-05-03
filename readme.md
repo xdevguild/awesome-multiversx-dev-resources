@@ -16,7 +16,7 @@
   - [Articles and tutorials](#articles-and-tutorials-1)
   - [Videos](#videos-1)
   - [Dev dApps](#dev-dapps-1)
-- [Paid Elrond content and tools](#paid-content-and-tools)
+- [Paid Elrond content and tools](#paid-elrond-content-and-tools)
 
 ## Elrond official
 
