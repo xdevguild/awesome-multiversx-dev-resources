@@ -5,7 +5,17 @@
 ## Contents
 
 - [Elrond official](#elrond-official)
+  - [Smart contracts](#smart-contracts)
+  - [SDKs and dev tools](#sdks-and-dev-tools)
+  - [Articles and tutorials](#articles-and-tutorials)
+  - [Videos](#videos)
+  - [Dev dApps](#dev-dapps)
 - [Elrond community](#elrond-community)
+  - [Smart contracts](#smart-contracts-1)
+  - [SDKs and dev tools](#sdks-and-dev-tools-1)
+  - [Articles and tutorials](#articles-and-tutorials-1)
+  - [Videos](#videos-1)
+  - [Dev dApps](#dev-dapps-1)
 - [Paid Elrond content and tools](#paid-content-and-tools)
 
 ## Elrond official
@@ -28,6 +38,10 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 
 - [TODO]()
 
+### Dev dApps
+
+- [TODO]()
+
 ## Elrond community
 
 Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
@@ -45,6 +59,10 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [TODO]()
 
 ### Videos
+
+- [TODO]()
+
+### Dev dApps
 
 - [TODO]()
 
