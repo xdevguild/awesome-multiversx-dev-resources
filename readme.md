@@ -50,7 +50,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 
 - [TODO]()
 
-### Dev tools
+### SDKs and dev tools
 
 - [TODO]()
 
