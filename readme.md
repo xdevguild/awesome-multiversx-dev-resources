@@ -68,13 +68,13 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 
 ### Explorers and APIs
 
-- [Devnet Explorer](https://testnet-explorer.elrond.com)
-- [Testnet Explorer](https://devnet-explorer.elrond.com)
+- [Devnet Explorer](https://devnet-explorer.elrond.com)
+- [Testnet Explorer](https://testnet-explorer.elrond.com)
 - [Mainnet Explorer](https://explorer.elrond.com)
 - [Devnet API](https://devnet-api.elrond.com)
 - [Testnet API](https://testnet-api.elrond.com)
 - [Mainnet API](https://api.elrond.com)
-- [Gateway Docs](https://devnet-gateway-docs.elrond.com)
+- [Gateway Docs](https://gateway-docs.elrond.com)
 - [Maiar Exchange GraphQL API](https://graph.maiar.exchange/graphql)
 
 ### Wallets
