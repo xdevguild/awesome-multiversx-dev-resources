@@ -17,6 +17,7 @@
   - [Videos](#videos-1)
   - [Dev dApps](#dev-dapps-1)
 - [Paid Elrond content and tools](#paid-elrond-content-and-tools)
+- [Contribute](#contribute)
 
 ## Elrond official
 
