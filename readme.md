@@ -33,7 +33,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Metabonding](https://github.com/ElrondNetwork/sc-metabonding-rs)
 - [Elrond-Ethereum bridge](https://github.com/ElrondNetwork/sc-bridge-elrond) - Smart Contracts on the Elrond side for Elrond-Ethereum bridge.
 - [Maiar Exchange](https://github.com/ElrondNetwork/sc-dex-rs) - These are the core Smart Contracts and the foundation of Maiar Exchange.
-- [NFT Marketpalce](https://github.com/ElrondNetwork/sc-nft-marketplace)
+- [NFT Marketplace](https://github.com/ElrondNetwork/sc-nft-marketplace)
 - [NFT Collection Minter](https://github.com/ElrondNetwork/sc-nft-collection-minter)
 
 ### SDKs and dev tools
