@@ -42,6 +42,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Elrond Javascript SDK (erdjs)](https://github.com/ElrondNetwork/elrond-sdk-erdjs) - Elrond official SDK for interactig with the Elrond Network and Elrond Smart Contracts using Javascript (written in Typescript)
 - [Elrond Python SDK (erdpy)](https://github.com/ElrondNetwork/elrond-sdk-erdpy) - Command line tools and Python SDK for interactig with the Elrond Network and Elrond Smart Contracts
 - [Elrond Go SDK](https://github.com/ElrondNetwork/elrond-sdk-erdgo/) - Go helpers and utilities for interacting with the Elrond Blockchain
+- [Elrond Rust SDK](https://github.com/bicarus-labs/elrond-sdk-erdrs) - Elrond Rust SDK for interacting with the Elrond Network and Smart Contracts.
 - [VSCode Elrond IDE](https://marketplace.visualstudio.com/items?itemName=Elrond.vscode-elrond-ide)
 
 ### Articles and tutorials
