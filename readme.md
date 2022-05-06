@@ -51,6 +51,11 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Build a dApp in 15 minutes](https://docs.elrond.com/developers/tutorials/your-first-dapp/)
 - [Build a Microservice for your dApp](https://docs.elrond.com/developers/tutorials/your-first-microservice/)
 - [erdjs cookbook](https://docs.elrond.com/sdk-and-tools/erdjs/erdjs-cookbook/)
+- [The dynamic allocation problem](https://docs.elrond.com/developers/best-practices/the-dynamic-allocation-problem/)
+- [Smart contract API functions](https://docs.elrond.com/developers/developer-reference/elrond-wasm-api-functions/)
+- [Smart contract annotations](https://docs.elrond.com/developers/developer-reference/elrond-wasm-annotations/)
+- [Random Numbers in Smart Contracts](https://docs.elrond.com/developers/developer-reference/random-numbers-in-smart-contracts/)
+- [Storage Mappers](https://docs.elrond.com/developers/best-practices/storage-mappers/)
 
 ### Videos
 
