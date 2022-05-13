@@ -107,6 +107,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [erdjs with NextJS](https://github.com/ElvenTools/elven-tools-dapp) - soon more generic version here in the guild
 - [erdjs with VueJS](https://github.com/stephaneLeroy/vue-erdjs)
 - [Elrondex](https://github.com/elrondex/elrondex) - Elixir library to interact with Elrond Blockchain
+- [NextJS dApp template](https://github.com/Elrond-Giants/erd-next-starter) by [Elrond Giants](https://elrondgiants.com) - A dApp template made using erdjs & nextjs
 
 ### Articles and tutorials
 
