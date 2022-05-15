@@ -104,8 +104,8 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Rust SDK](https://github.com/bicarus-labs/elrond-sdk-erdrs) - Elrond Rust SDK for interacting with the Elrond Network and Smart Contracts.
 - [Elven CLI tool](https://github.com/ElvenTools/elven-tools-cli) - The CLI tool for deploying and interacting with the Elven NFT Minter SC. But not only limited to that.
 - [ESDT Distribution script](https://github.com/Combased/elrond-lkmex-distribution)
-- [erdjs with NextJS](https://github.com/ElvenTools/elven-tools-dapp) - soon more generic version here in the guild
-- [erdjs with VueJS](https://github.com/stephaneLeroy/vue-erdjs)
+- [erdjs with NextJS dapp template](https://github.com/ElrondDevGuild/nextjs-dapp-template)
+- [erdjs with VueJS dapp template](https://github.com/stephaneLeroy/vue-erdjs)
 - [Elrondex](https://github.com/elrondex/elrondex) - Elixir library to interact with Elrond Blockchain
 - [NextJS dApp template](https://github.com/Elrond-Giants/erd-next-starter) by [Elrond Giants](https://elrondgiants.com) - A dApp template made using erdjs & nextjs
 
