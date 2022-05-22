@@ -97,8 +97,9 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 ### Smart contracts
 
 - [Elven NFT Minter Smart Contract](https://github.com/ElvenTools/elven-nft-minter-sc) - Mint and sell NFT collections. It has features like issue collection, setting creation role, pause/unpause, random minting, giveaway, split minting into batches, and more.
-- [Simple Piggybank SC](https://github.com/juliancwirko/elrond-simple-sc) - soon it will land here in the guild with updated docs and frontend dapp for learning purposes
+- [Simple Piggybank Smart Contract](https://github.com/ElrondDevGuild/elrond-simple-sc) - smart contract for learning purposes
 - [Middleman.nft Smart Contract](https://github.com/yum0e/middleman-nft) - Create or delete offers for a P2P exchange between two known users. Simple smart contract and its associated snippets.
+- [Presale Smart Contract](https://github.com/ElrondDevGuild/elrond-pack-presale-sc) - Token Presale with Packs. Each pack has given egld amount and bonus percentage for presale token
 
 ### SDKs and dev tools
 
@@ -109,6 +110,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [erdjs with VueJS dapp template](https://github.com/stephaneLeroy/vue-erdjs)
 - [Elrondex](https://github.com/elrondex/elrondex) - Elixir library to interact with Elrond Blockchain
 - [NextJS dApp template](https://github.com/Elrond-Giants/erd-next-starter) by [Elrond Giants](https://elrondgiants.com) - A dApp template made using erdjs & nextjs
+- [LKMEX airdrop](https://github.com/ElrondDevGuild/lkmex-airdrop) - Python script that performs an airdrop of LKMEX to NFT holders
 
 ### Articles and tutorials
 
