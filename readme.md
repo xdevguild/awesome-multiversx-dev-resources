@@ -98,6 +98,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 
 - [Elven NFT Minter Smart Contract](https://github.com/ElvenTools/elven-nft-minter-sc) - Mint and sell NFT collections. It has features like issue collection, setting creation role, pause/unpause, random minting, giveaway, split minting into batches, and more.
 - [Simple Piggybank SC](https://github.com/juliancwirko/elrond-simple-sc) - soon it will land here in the guild with updated docs and frontend dapp for learning purposes
+- [Middleman.nft Smart Contract](https://github.com/yum0e/middleman-nft) - Create or delete offers for a P2P exchange between two known users. Simple smart contract and its associated snippets.
 
 ### SDKs and dev tools
 
@@ -124,6 +125,10 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 
 - [R3D4](https://r3d4.fr) - Faucet, ESDT tools, Stats
 - [Convertes for Elrond Blockchain](http://207.244.241.38/elrond-converters) - This page offers an easy to use pack of convertors necessary for interacting with Elrond Blockchain.
+
+### Dapps Source Code
+
+- [Middleman.nft](https://www.middleman-nft.com/) - A secure way to exchange NFTs with a smart contract that acts as a trusted third party. Open source code of the frontend [here](https://github.com/yum0e/front-nft-middleman).
 
 ### Explorers and APIs
 
