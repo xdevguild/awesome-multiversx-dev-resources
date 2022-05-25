@@ -101,6 +101,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Simple Piggybank Smart Contract](https://github.com/ElrondDevGuild/elrond-simple-sc) - smart contract for learning purposes
 - [Middleman.nft Smart Contract](https://github.com/yum0e/middleman-nft) - Create or delete offers for a P2P exchange between two known users. Simple smart contract and its associated snippets.
 - [Presale Smart Contract](https://github.com/ElrondDevGuild/elrond-pack-presale-sc) - Token Presale with Packs. Each pack has given egld amount and bonus percentage for presale token
+- [Elrond Bulk](https://github.com/defralcoding/ElrondBulk) - smart contract for handling bulk transactions
 
 ### SDKs and dev tools
 
