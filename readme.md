@@ -113,6 +113,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Elrondex](https://github.com/elrondex/elrondex) - Elixir library to interact with Elrond Blockchain
 - [NextJS dApp template](https://github.com/Elrond-Giants/erd-next-starter) by [Elrond Giants](https://elrondgiants.com) - A dApp template made using erdjs & nextjs
 - [LKMEX airdrop](https://github.com/ElrondDevGuild/lkmex-airdrop) - Python script that performs an airdrop of LKMEX to NFT holders
+- [elrond-sft](https://www.npmjs.com/package/elrond-sft) by [Elrond Giants](https://elrondgiants.com) - A CLI tool you can use to execute SFT related operations like issue token, set roles, mint, add quantity, burn, airdrops
 
 ### Articles and tutorials
 
