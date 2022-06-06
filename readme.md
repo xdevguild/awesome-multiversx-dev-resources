@@ -106,13 +106,14 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 ### SDKs and dev tools
 
 - [Rust SDK](https://github.com/bicarus-labs/elrond-sdk-erdrs) - Elrond Rust SDK for interacting with the Elrond Network and Smart Contracts.
-- [Elven CLI tool](https://github.com/ElvenTools/elven-tools-cli) - The CLI tool for deploying and interacting with the Elven NFT Minter SC. But not only limited to that.
+- [Elven Tools CLI](https://github.com/ElvenTools/elven-tools-cli) - The CLI tool for deploying and interacting with the [Elven Tools NFT Minter SC](https://github.com/ElvenTools/elven-nft-minter-sc). But not only limited to that.
 - [ESDT Distribution script](https://github.com/Combased/elrond-lkmex-distribution)
 - [erdjs with NextJS dapp template](https://github.com/ElrondDevGuild/nextjs-dapp-template)
 - [erdjs with VueJS dapp template](https://github.com/stephaneLeroy/vue-erdjs)
 - [Elrondex](https://github.com/elrondex/elrondex) - Elixir library to interact with Elrond Blockchain
 - [NextJS dApp template](https://github.com/Elrond-Giants/erd-next-starter) by [Elrond Giants](https://elrondgiants.com) - A dApp template made using erdjs & nextjs
 - [LKMEX airdrop](https://github.com/ElrondDevGuild/lkmex-airdrop) - Python script that performs an airdrop of LKMEX to NFT holders
+- [Buildo Begins](https://github.com/ElrondDevGuild/buildo-begins) - CLI tool that uses erdjs SDK. Its primary purpose is to simplify interaction with the Elrond blockchain and smart contracts - sending tokens, issuing, also API interactions - custom filtering and exports (still WIP, but functional)
 - [elrond-sft](https://www.npmjs.com/package/elrond-sft) by [Elrond Giants](https://elrondgiants.com) - A CLI tool you can use to execute SFT related operations like issue token, set roles, mint, add quantity, burn, airdrops
 
 ### Articles and tutorials
