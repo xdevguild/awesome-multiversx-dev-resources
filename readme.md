@@ -102,6 +102,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Middleman.nft Smart Contract](https://github.com/yum0e/middleman-nft) - Create or delete offers for a P2P exchange between two known users. Simple smart contract and its associated snippets.
 - [Presale Smart Contract](https://github.com/ElrondDevGuild/elrond-pack-presale-sc) - Token Presale with Packs. Each pack has given egld amount and bonus percentage for presale token
 - [Elrond Bulk](https://github.com/defralcoding/ElrondBulk) - smart contract for handling bulk transactions
+- [eNftMemes Smart Contracts](https://github.com/eNftMemes/memes-sc) - Smart contracts code for the https://enftmemes.com. Includes decentralized voting, computing of a Top 10 based on votes, creating nft & updating attributes, signature verification with example etc
 
 ### SDKs and dev tools
 
