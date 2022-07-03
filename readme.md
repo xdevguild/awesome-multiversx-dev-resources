@@ -149,6 +149,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 ## Elrond Dev groups
 
 - [Elrond Developers Telegram group](https://t.me/ElrondDevelopers)
+- [Elrond Fr Developers Discord](https://discord.gg/rt6XS8Eyrs)
 - [StackOverflow](https://stackoverflow.com/questions/tagged/elrond)
 
 ## Paid Elrond content and tools
