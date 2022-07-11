@@ -119,6 +119,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [erdjs-auth](https://github.com/Elrond-Giants/erdjs-auth) by [Elrond Giants](https://elrondgiants.com) - This library aims to make it easy to authenticate and sign transactions. It offers a common interface for all auth providers.
 - [erd-react-hooks](https://github.com/Elrond-Giants/erd-react-hooks) by [Elrond Giants](https://elrondgiants.com) - This is a library of React hooks built for the Elrond ecosystem. It aims to make it easy to authenticate, sign and send transactions, and query smart contracts.
 - [elven.js](https://github.com/juliancwirko/elven.js) - The script for interactions with the protocol and smart contracts in the browser, no bundlers nor frameworks are required, just browser and script tag. Can be loaded from CDN
+- [Elrond Unity Tools](https://github.com/chainofindustry/ElrondUnityDevelopmentTools) - A work-in-progress set of tools to interact with Elrond Blockchain directly from a Unity app.
 
 ### Articles and tutorials
 
