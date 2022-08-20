@@ -105,6 +105,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Presale Smart Contract](https://github.com/ElrondDevGuild/elrond-pack-presale-sc) - Token Presale with Packs. Each pack has given egld amount and bonus percentage for presale token
 - [Elrond Bulk](https://github.com/defralcoding/ElrondBulk) - smart contract for handling bulk transactions
 - [eNftMemes Smart Contracts](https://github.com/eNftMemes/memes-sc) - Smart contracts code for the https://enftmemes.com. Includes decentralized voting, computing of a Top 10 based on votes, creating nft & updating attributes, signature verification with example etc
+- [Multi Sender smart contract](https://github.com/ElrondDevGuild/sc-multi-sender-rs) - A multi-sender smart contract that allows you to send EGLD, ESDTs and NFTs to multiple addresses in one transaction
 
 ### SDKs and dev tools
 
