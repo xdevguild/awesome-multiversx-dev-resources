@@ -138,7 +138,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 ### Dev dApps
 
 - [R3D4](https://r3d4.fr) - Faucet, ESDT tools, Stats
-- [Convertes for Elrond Blockchain](https://elrond-converters.netlify.app) - This page offers an easy to use pack of convertors necessary for interacting with Elrond Blockchain.
+- [Convertes for Elrond Blockchain](https://elrond-converters.netlify.app) - This page offers an easy converter to interact with Elrond Blockchain.
 - [Elrond Transactioneer](https://elrond-transactioneer.vercel.app) - Create, Edit, Import, Export, Send & Batch Send transactions on any Elrond network.
 
 ### Dapps Source Code
