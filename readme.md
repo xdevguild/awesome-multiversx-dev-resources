@@ -106,6 +106,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Elrond Bulk](https://github.com/defralcoding/ElrondBulk) - smart contract for handling bulk transactions
 - [eNftMemes Smart Contracts](https://github.com/eNftMemes/memes-sc) - Smart contracts code for the https://enftmemes.com. Includes decentralized voting, computing of a Top 10 based on votes, creating nft & updating attributes, signature verification with example etc
 - [Multi Sender smart contract](https://github.com/ElrondDevGuild/sc-multi-sender-rs) - A multi-sender smart contract that allows you to send EGLD, ESDTs and NFTs to multiple addresses in one transaction
+- [ESDT Faucet SC](https://github.com/ElrondDevGuild/esdt-faucet-sc) - ESDT Faucet - claim, deposit ESDT tokens
 
 ### SDKs and dev tools
 
@@ -126,8 +127,12 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 
 ### Articles and tutorials
 
+- [Linux environment for development](https://elrond-dev-guild.gitbook.io/scrolls/readme/linux-environment-for-development)
+- [Setup the erdjs workflow and issue an ESDT token in NodeJS enviroment](https://elrond-dev-guild.gitbook.io/scrolls/erdjs/how-tos/setup-erdjs-and-issue-esdt-token)
 - [How to start with Elrond blockchain development](https://www.julian.io/articles/how-to-start-with-elrond.html)
 - [Use of IPFS in the Elrond NFT ecosystem](https://www.elven.tools/docs/use-of-ipfs-in-the-elrond-nft-ecosystem.html)
+- [How to Interact With the Elrond Blockchain in a Simple Static Website](https://hackernoon.com/how-to-interact-with-the-elrond-blockchain-in-a-simple-static-website)
+- [How to enable donations on any website using the Elrond blockchain and EGLD tokens](https://dev.to/juliancwirko/how-to-enable-donations-on-any-website-using-the-elrond-blockchain-and-egld-tokens-3fkf)
 
 ### Videos
 
@@ -140,6 +145,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 - [R3D4](https://r3d4.fr) - Faucet, ESDT tools, Stats
 - [Convertes for Elrond Blockchain](http://207.244.241.38/elrond-converters) - This page offers an easy to use pack of convertors necessary for interacting with Elrond Blockchain.
 - [Elrond Transactioneer](https://elrond-transactioneer.vercel.app) - Create, Edit, Import, Export, Send & Batch Send transactions on any Elrond network.
+- [ESDT Faucet](https://devnet-elrond-esdt-faucet.netlify.app/) - Deposit and Claim ESDT tokens
 
 ### Dapps Source Code
 
