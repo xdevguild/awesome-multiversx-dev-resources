@@ -48,6 +48,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 
 ### Articles and tutorials
 
+- [Staking smart contract tutorial](https://docs.elrond.com/developers/tutorials/staking-contract/)
 - [The Crowdfunding Smart Contract](https://docs.elrond.com/developers/tutorials/crowdfunding-p1/)
 - [Rust Testing Framework](https://docs.elrond.com/developers/developer-reference/rust-testing-framework/)
 - [Build a dApp in 15 minutes](https://docs.elrond.com/developers/tutorials/your-first-dapp/)
