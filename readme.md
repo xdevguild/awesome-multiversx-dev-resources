@@ -1,10 +1,10 @@
-# awesome-elrond-dev-resources
+# awesome-multiversx-dev-resources
 
-> Elrond dev resources
+> MultiversX dev resources (previously Elrond)
 
 ## Contents
 
-- [Elrond official](#elrond-official)
+- [MultiversX official](#multiversx-official)
   - [Smart contracts](#smart-contracts)
   - [SDKs and dev tools](#sdks-and-dev-tools)
   - [Articles and tutorials](#articles-and-tutorials)
@@ -12,7 +12,7 @@
   - [Dev dApps](#dev-dapps)
   - [Explorers and APIs](#explorers-and-apis)
   - [Wallets](#wallets)
-- [Elrond community](#elrond-community)
+- [MultiversX community](#multiversx-community)
   - [Smart contracts](#smart-contracts-1)
   - [SDKs and dev tools](#sdks-and-dev-tools-1)
   - [Articles and tutorials](#articles-and-tutorials-1)
@@ -20,31 +20,31 @@
   - [Dev dApps](#dev-dapps-1)
   - [Dapps source code](#dapps-source-code)
   - [Explorers and APIs](#explorers-and-apis-1)
-- [Paid Elrond content and tools](#paid-elrond-content-and-tools)
-- [Elrond Dev groups](#elrond-dev-groups)
+- [Paid MultiversX content and tools](#paid-multiversx-content-and-tools)
+- [MultiversX Dev groups](#multiversx-dev-groups)
 - [Contribute](#contribute)
 
-## Elrond official
+## MultiversX official
 
 Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 
 ### Smart contracts
 
-- [Elrond Smart Contract examples](https://github.com/ElrondNetwork/elrond-wasm-rs/tree/master/contracts/examples) - A bunch of useful smart contract examples from the Elrond team
+- [Smart Contract examples](https://github.com/ElrondNetwork/elrond-wasm-rs/tree/master/contracts/examples) - A bunch of useful smart contract examples from the MultiversX team
 - [Metabonding](https://github.com/ElrondNetwork/sc-metabonding-rs)
-- [Elrond-Ethereum bridge](https://github.com/ElrondNetwork/sc-bridge-elrond) - Smart Contracts on the Elrond side for Elrond-Ethereum bridge.
+- [Ethereum bridge](https://github.com/ElrondNetwork/sc-bridge-elrond) - Smart Contracts on the Elrond side for Elrond-Ethereum bridge.
 - [Maiar Exchange](https://github.com/ElrondNetwork/sc-dex-rs) - These are the core Smart Contracts and the foundation of Maiar Exchange.
 - [NFT Marketplace](https://github.com/ElrondNetwork/sc-nft-marketplace)
 - [NFT Collection Minter](https://github.com/ElrondNetwork/sc-nft-collection-minter)
 
 ### SDKs and dev tools
 
-- [Elrond Wasm framework](https://github.com/ElrondNetwork/elrond-wasm-rs) - Rust smart contract library designed for Elrond's Wasm VM. Also provides a debugging mode with mocks.
-- [Elrond Javascript SDK (erdjs)](https://github.com/ElrondNetwork/elrond-sdk-erdjs) - Elrond official SDK for interactig with the Elrond Network and Elrond Smart Contracts using Javascript (written in Typescript)
-- [Elrond Python SDK (erdpy)](https://github.com/ElrondNetwork/elrond-sdk-erdpy) - Command line tools and Python SDK for interactig with the Elrond Network and Elrond Smart Contracts
-- [Elrond Go SDK](https://github.com/ElrondNetwork/elrond-sdk-erdgo/) - Go helpers and utilities for interacting with the Elrond Blockchain
-- [VSCode Elrond IDE](https://marketplace.visualstudio.com/items?itemName=Elrond.vscode-elrond-ide)
-- [Elrond SDK erdjs examples](https://github.com/ElrondNetwork/elrond-sdk-erdjs-examples)
+- [Wasm framework](https://github.com/ElrondNetwork/elrond-wasm-rs) - Rust smart contract library designed for Elrond's Wasm VM. Also provides a debugging mode with mocks.
+- [Javascript SDK (erdjs)](https://github.com/ElrondNetwork/elrond-sdk-erdjs) - Elrond official SDK for interactig with the Elrond Network and Elrond Smart Contracts using Javascript (written in Typescript)
+- [Python SDK (erdpy)](https://github.com/ElrondNetwork/elrond-sdk-erdpy) - Command line tools and Python SDK for interactig with the Elrond Network and Elrond Smart Contracts
+- [Go SDK](https://github.com/ElrondNetwork/elrond-sdk-erdgo/) - Go helpers and utilities for interacting with the Elrond Blockchain
+- [VSCode IDE](https://marketplace.visualstudio.com/items?itemName=Elrond.vscode-elrond-ide)
+- [SDK erdjs examples](https://github.com/ElrondNetwork/elrond-sdk-erdjs-examples)
 
 ### Articles and tutorials
 
