@@ -74,6 +74,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 
 - [Elrond dApp template](https://github.com/ElrondNetwork/dapp-template) - The official dApp template provided by the Elrond team using React.js & Typescript. It's a basic implementation of [@elrondnetwork/dapp-core](https://www.npmjs.com/package/@elrondnetwork/dapp-core), providing the basics for Elrond authentication and TX signing.
 - [Elrond Playground](https://play.elrond.com/) - Smart contracts playground. You can choose from a couple of templates or write your smart contract. You can even build and deploy it.
+- [NFT service](https://github.com/ElrondNetwork/nft-service) - GraphQl service to provide informations regarding nfts and auctions on MultiversX Blockchain
 
 ### Explorers and APIs
 
