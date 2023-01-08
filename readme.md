@@ -145,6 +145,14 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 Please be aware that videos can be outdated. Always verify them with the docs.
 
 - [How to run NFT collection on the Elrond blockchain](https://youtu.be/resGP6a7_34)
+- [Intro to Buildo Begins - the CLI that helps with MultiversX blockchain interactions](https://youtu.be/NijTSZhswns)
+- [How to issue, mint and burn ESDT tokens on the MultiversX blockchain with Buildo CLI](https://youtu.be/_Jj0zCaATVU)
+- [Create SFTs on the MultiversX Blockchain with Buildo CLI](https://youtu.be/ozOYli4qQx4)
+- [How to mint a single NFT on the MultiversX blockchain with Buildo CLI](https://youtu.be/B4vahursgkQ)
+- [Create Meta ESDTs on the MultiversX Blockchain with Buildo CLI](https://youtu.be/dsRswHhIteU)
+- [Assign herotag (DNS) to your address with Buildo CLI](https://youtu.be/nvda-zCffck)
+- [How to convert data types for MultiversX blockchain using Buildo CLI](https://youtu.be/soUq9eX9-0s)
+- [Save a key-value data under your MultiversX account with Buildo CLI](https://youtu.be/gPVUkOgak1E)
 
 ### Dev dApps
 
