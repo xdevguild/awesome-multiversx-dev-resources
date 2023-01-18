@@ -84,16 +84,14 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 - [Devnet API](https://devnet-api.multiversx.com)
 - [Testnet API](https://testnet-api.multiversx.com)
 - [Mainnet API](https://api.multiversx.com)
-- [Gateway Docs](https://gateway-docs.multiversx.com)
-- [Maiar Exchange GraphQL API](https://graph.maiar.exchange/graphql)
 
 ### Wallets
 
 - [Devnet Web wallet](https://devnet-wallet.multiversx.com/)
 - [Testnet Web wallet](https://testnet-wallet.multiversx.com/)
 - [Mainnet Web wallet](https://wallet.multiversx.com/)
-- [Maiar App](https://maiar.com/) - mobile app
-- [Maiar Defi Wallet](https://chrome.google.com/webstore/detail/maiar-defi-wallet/dngmlblcodfobpdpecaadgfbcggfjfnm) - browser extension
+- [xPortal App](https://xportal.com/) - mobile app
+- [MultiversX Defi Wallet](https://chrome.google.com/webstore/detail/multiversx-defi-wallet/dngmlblcodfobpdpecaadgfbcggfjfnm) - browser extension
 
 ## MultiversX community
 
