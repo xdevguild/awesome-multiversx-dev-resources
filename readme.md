@@ -124,8 +124,8 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [erd-react-hooks](https://github.com/Elrond-Giants/erd-react-hooks) by [Elrond Giants](https://elrondgiants.com) - This is a library of React hooks built for the Elrond ecosystem. It aims to make it easy to authenticate, sign and send transactions, and query smart contracts.
 - [elven.js](https://github.com/juliancwirko/elven.js) - The script for interactions with the protocol and smart contracts in the browser, no bundlers nor frameworks are required, just browser and script tag. Can be loaded from CDN
 - [MultiversX Unity Tools](https://github.com/chainofindustry/MultiversXUnityTools) - A work-in-progress set of tools to interact with MultiversX Blockchain directly from a Unity app.
-- [SDK for Laravel](https://github.com/Superciety/elrond-sdk-laravel) - SDK for Laravel (written in PHP) from Superciety
 - [AssemblyScript framework for MultiversX VM](https://github.com/gfusee/elrond-wasm-as) - AssemblyScript smart contract library designed for Elrond's VM.
+- [MultiversX SDK for Laravel](https://github.com/PeerMeHQ/mx-sdk-laravel) - MultiversX SDK for Laravel (written in PHP)
 - [MultiversX SDK for PHP](https://github.com/PeerMeHQ/mx-sdk-php) - MultiversX SDK written in PHP.
 - [PHP Network Providers API](https://github.com/PeerMeHQ/mx-sdk-php-network-providers) - Network Provider API components (compatible with mx-sdk-php)
 - [Mx.NET.SDK](https://github.com/RemarkableTools/Mx.NET.SDK) - MultiversX .NET SDK: Complex library for interacting with MultiversX blockchain
