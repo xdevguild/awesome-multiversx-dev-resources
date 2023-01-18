@@ -1,4 +1,4 @@
-# awesome-multiversx-dev-resources
+# Awesome MultiversX Dev Resources
 
 > MultiversX dev resources (previously Elrond)
 
@@ -126,6 +126,10 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [MultiversX Unity Tools](https://github.com/chainofindustry/MultiversXUnityTools) - A work-in-progress set of tools to interact with MultiversX Blockchain directly from a Unity app.
 - [SDK for Laravel](https://github.com/Superciety/elrond-sdk-laravel) - SDK for Laravel (written in PHP) from Superciety
 - [AssemblyScript framework for MultiversX VM](https://github.com/gfusee/elrond-wasm-as) - AssemblyScript smart contract library designed for Elrond's VM.
+- [MultiversX SDK for PHP](https://github.com/PeerMeHQ/mx-sdk-php) - MultiversX SDK written in PHP.
+- [PHP Network Providers API](https://github.com/PeerMeHQ/mx-sdk-php-network-providers) - Network Provider API components (compatible with mx-sdk-php)
+- [Mx.NET.SDK](https://github.com/RemarkableTools/Mx.NET.SDK) - MultiversX .NET SDK: Complex library for interacting with MultiversX blockchain
+- [Mx.NET.SDK.WalletProviders](https://github.com/RemarkableTools/Mx.NET.SDK.WalletProviders) - MultiversX .NET SDK: Unique library for interacting with Wallet Providers. Create connection and sign transactions.
 
 ### Articles and tutorials
 
