@@ -117,7 +117,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [erdjs with VueJS dapp template](https://github.com/stephaneLeroy/vue-erdjs)
 - [Elrondex](https://github.com/elrondex/elrondex) - Elixir library to interact with Elrond Blockchain
 - [NextJS dApp template](https://github.com/Elrond-Giants/erd-next-starter) by [Elrond Giants](https://elrondgiants.com) - A dApp template made using erdjs & nextjs
-- [LKMEX airdrop](https://github.com/xdevguild/lkmex-airdrop) - Python script that performs an airdrop of LKMEX to NFT holders
+- [LKMEX airdrop](https://github.com/xdevguild/esdt-and-lkmek-airdrop-scripts) - Python script that performs an airdrop of LKMEX to NFT holders
 - [Buildo Begins](https://github.com/xdevguild/buildo-begins) - CLI tool that uses erdjs SDK. Its primary purpose is to simplify interaction with the Elrond blockchain and smart contracts - sending tokens, issuing, also API interactions - custom filtering and exports (still WIP, but functional)
 - [elrond-sft](https://www.npmjs.com/package/elrond-sft) by [Elrond Giants](https://elrondgiants.com) - A CLI tool you can use to execute SFT related operations like issue token, set roles, mint, add quantity, burn, airdrops
 - [erdjs-auth](https://github.com/Elrond-Giants/erdjs-auth) by [Elrond Giants](https://elrondgiants.com) - This library aims to make it easy to authenticate and sign transactions. It offers a common interface for all auth providers.
