@@ -44,7 +44,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Python SDK](https://github.com/multiversx/mx-sdk-py-cli) - Command line tools and Python SDK for interactig with the MultiversX Network and MultiversX Smart Contracts
 - [Go SDK](https://github.com/multiversx/mx-sdk-go) - Go helpers and utilities for interacting with the MultiversX Blockchain
 - [VSCode IDE](https://marketplace.visualstudio.com/items?itemName=Elrond.vscode-elrond-ide)
-- [SDK erdjs examples](https://github.com/multiversx/mx-sdk-js-examples)
+- [JS SDK examples](https://github.com/multiversx/mx-sdk-js-examples)
 
 ### Articles and tutorials
 
@@ -53,7 +53,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Rust Testing Framework](https://docs.multiversx.com/developers/developer-reference/rust-testing-framework/)
 - [Build a dApp in 15 minutes](https://docs.multiversx.com/developers/tutorials/your-first-dapp/)
 - [Build a Microservice for your dApp](https://docs.multiversx.com/developers/tutorials/your-first-microservice/)
-- [erdjs cookbook](https://docs.multiversx.com/sdk-and-tools/sdk-js/sdk-js-cookbook/)
+- [JS SDK cookbook](https://docs.multiversx.com/sdk-and-tools/sdk-js/sdk-js-cookbook/)
 - [Signing Providers for dApps](https://docs.multiversx.com/sdk-and-tools/sdk-js/sdk-js-signing-providers/)
 - [The dynamic allocation problem](https://docs.multiversx.com/developers/best-practices/the-dynamic-allocation-problem/)
 - [Smart contract API functions](https://docs.multiversx.com/developers/developer-reference/sc-api-functions)
@@ -113,15 +113,15 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Rust SDK](https://github.com/bicarus-labs/elrond-sdk-erdrs) - Elrond Rust SDK for interacting with the Elrond Network and Smart Contracts.
 - [Elven Tools CLI](https://github.com/ElvenTools/elven-tools-cli) - The CLI tool for deploying and interacting with the [Elven Tools NFT Minter SC](https://github.com/ElvenTools/elven-nft-minter-sc). But not only limited to that.
 - [ESDT Distribution script](https://github.com/Combased/elrond-lkmex-distribution)
-- [erdjs with NextJS dapp template](https://github.com/xdevguild/nextjs-dapp-template)
-- [erdjs with VueJS dapp template](https://github.com/stephaneLeroy/vue-erdjs)
+- [JS SDK with NextJS dapp template](https://github.com/xdevguild/nextjs-dapp-template)
+- [JS SDK with VueJS dapp template](https://github.com/stephaneLeroy/vue-erdjs)
 - [Elrondex](https://github.com/elrondex/elrondex) - Elixir library to interact with Elrond Blockchain
-- [NextJS dApp template](https://github.com/Elrond-Giants/erd-next-starter) by [Elrond Giants](https://elrondgiants.com) - A dApp template made using erdjs & nextjs
+- [NextJS dApp template](https://github.com/Elrond-Giants/erd-next-starter) by [Elrond Giants](https://elrondgiants.com) - A dApp template made using JS SDK & nextjs
 - [LKMEX airdrop](https://github.com/xdevguild/esdt-and-lkmek-airdrop-scripts) - Python script that performs an airdrop of LKMEX to NFT holders
-- [Buildo Begins](https://github.com/xdevguild/buildo-begins) - CLI tool that uses erdjs SDK. Its primary purpose is to simplify interaction with the Elrond blockchain and smart contracts - sending tokens, issuing, also API interactions - custom filtering and exports (still WIP, but functional)
+- [Buildo Begins](https://github.com/xdevguild/buildo-begins) - CLI tool that uses JS SDK. Its primary purpose is to simplify interaction with the Elrond blockchain and smart contracts - sending tokens, issuing, also API interactions - custom filtering and exports (still WIP, but functional)
 - [elrond-sft](https://www.npmjs.com/package/elrond-sft) by [Elrond Giants](https://elrondgiants.com) - A CLI tool you can use to execute SFT related operations like issue token, set roles, mint, add quantity, burn, airdrops
 - [erdjs-auth](https://github.com/Elrond-Giants/erdjs-auth) by [Elrond Giants](https://elrondgiants.com) - This library aims to make it easy to authenticate and sign transactions. It offers a common interface for all auth providers.
-- [erd-react-hooks](https://github.com/Elrond-Giants/erd-react-hooks) by [Elrond Giants](https://elrondgiants.com) - This is a library of React hooks built for the Elrond ecosystem. It aims to make it easy to authenticate, sign and send transactions, and query smart contracts.
+- [erd-react-hooks](https://github.com/Elrond-Giants/erd-react-hooks) by [Elrond Giants](https://elrondgiants.com) - This is a library of React hooks built for the MultiversX ecosystem. It aims to make it easy to authenticate, sign and send transactions, and query smart contracts.
 - [elven.js](https://github.com/juliancwirko/elven.js) - The script for interactions with the protocol and smart contracts in the browser, no bundlers nor frameworks are required, just browser and script tag. Can be loaded from CDN
 - [MultiversX Unity Tools](https://github.com/chainofindustry/MultiversXUnityTools) - A work-in-progress set of tools to interact with MultiversX Blockchain directly from a Unity app.
 - [AssemblyScript framework for MultiversX VM](https://github.com/gfusee/elrond-wasm-as) - AssemblyScript smart contract library designed for Elrond's VM.
@@ -134,12 +134,12 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 ### Articles and tutorials
 
 - [Linux environment for development](https://elrond-dev-guild.gitbook.io/scrolls/readme/linux-environment-for-development)
-- [Setup the erdjs workflow and issue an ESDT token in NodeJS enviroment](https://elrond-dev-guild.gitbook.io/scrolls/erdjs/how-tos/setup-erdjs-and-issue-esdt-token)
+- [Setup the JS SDK workflow and issue an ESDT token in NodeJS enviroment](https://elrond-dev-guild.gitbook.io/scrolls/erdjs/how-tos/setup-erdjs-and-issue-esdt-token)
 - [How to start with MultiversX blockchain development](https://www.julian.io/articles/how-to-start-with-multiversx.html)
 - [Use of IPFS in the MultiversX NFT ecosystem](https://www.elven.tools/docs/use-of-ipfs-in-the-elrond-nft-ecosystem.html)
 - [How to Interact With the MultiversX Blockchain in a Simple Static Website](https://hackernoon.com/how-to-interact-with-the-elrond-blockchain-in-a-simple-static-website)
 - [How to enable donations on any website using the MultiversX blockchain and EGLD tokens](https://dev.to/juliancwirko/how-to-enable-donations-on-any-website-using-the-elrond-blockchain-and-egld-tokens-3fkf)
-- [Fetching Elrond API using Next.js](https://borispoehland.notion.site/borispoehland/Fetch-Elrond-API-using-Next-js-e5685a624d1546fdbee636b7cfa314ba)
+- [Fetching MultiversX API using Next.js](https://borispoehland.notion.site/borispoehland/Fetch-Elrond-API-using-Next-js-e5685a624d1546fdbee636b7cfa314ba)
 - [AssemblyScript version of the Crowdfunding tutorial](https://fusee.gitbook.io/elrond-wasm-as/the-crowdfunding-smart-contract/the-crowdfunding-smart-contract-part-1) 
 
 ### Videos
