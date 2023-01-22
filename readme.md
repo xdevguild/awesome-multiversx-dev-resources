@@ -146,6 +146,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 
 Please be aware that videos can be outdated. Always verify them with the docs.
 
+- [MultiversX VSCode IDE extension walkthrough](https://youtu.be/y0beoihLppA)
 - [How to run NFT collection on the MultiversX blockchain](https://youtu.be/resGP6a7_34)
 - [Intro to Buildo Begins - the CLI that helps with MultiversX blockchain interactions](https://youtu.be/NijTSZhswns)
 - [How to issue, mint and burn ESDT tokens on the MultiversX blockchain with Buildo CLI](https://youtu.be/_Jj0zCaATVU)
