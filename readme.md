@@ -40,8 +40,8 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 ### SDKs and dev tools
 
 - [Wasm framework](https://github.com/multiversx/mx-sdk-rs) - Rust smart contract library designed for MultiversX VM. Also provides a debugging mode with mocks.
-- [Javascript SDK](https://github.com/multiversx/mx-sdk-js-core) - Official TS/JS SDK for interactig with the MultiversX Network and MultiversX Smart Contracts using Javascript (written in Typescript)
-- [Python SDK](https://github.com/multiversx/mx-sdk-py-cli) - Command line tools and Python SDK for interactig with the MultiversX Network and MultiversX Smart Contracts
+- [Javascript SDK](https://github.com/multiversx/mx-sdk-js-core) - Official TS/JS SDK for interacting with the MultiversX Network and MultiversX Smart Contracts using Javascript (written in Typescript)
+- [Python SDK](https://github.com/multiversx/mx-sdk-py-cli) - Command line tools and Python SDK for interacting with the MultiversX Network and MultiversX Smart Contracts
 - [Go SDK](https://github.com/multiversx/mx-sdk-go) - Go helpers and utilities for interacting with the MultiversX Blockchain
 - [VSCode IDE](https://marketplace.visualstudio.com/items?itemName=Elrond.vscode-elrond-ide)
 - [JS SDK examples](https://github.com/multiversx/mx-sdk-js-examples)
@@ -134,7 +134,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 ### Articles and tutorials
 
 - [Linux environment for development](https://elrond-dev-guild.gitbook.io/scrolls/readme/linux-environment-for-development)
-- [Setup the JS SDK workflow and issue an ESDT token in NodeJS enviroment](https://elrond-dev-guild.gitbook.io/scrolls/erdjs/how-tos/setup-erdjs-and-issue-esdt-token)
+- [Setup the JS SDK workflow and issue an ESDT token in NodeJS environment](https://elrond-dev-guild.gitbook.io/scrolls/erdjs/how-tos/setup-erdjs-and-issue-esdt-token)
 - [How to start with MultiversX blockchain development](https://www.julian.io/articles/how-to-start-with-multiversx.html)
 - [Use of IPFS in the MultiversX NFT ecosystem](https://www.elven.tools/docs/use-of-ipfs-in-the-elrond-nft-ecosystem.html)
 - [How to Interact With the MultiversX Blockchain in a Simple Static Website](https://hackernoon.com/how-to-interact-with-the-elrond-blockchain-in-a-simple-static-website)
@@ -160,7 +160,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 ### Dev dApps
 
 - [R3D4](https://r3d4.fr) - Faucet, ESDT tools, Stats
-- [Convertes for MultiversX Blockchain](http://207.244.241.38/elrond-converters) - This page offers an easy-to-use pack of data converters for interacting with MultiversX Blockchain.
+- [Converters for MultiversX Blockchain](http://207.244.241.38/elrond-converters) - This page offers an easy-to-use pack of data converters for interacting with MultiversX Blockchain.
 - [XConverters](https://xconverters.netlify.app/) - Another app that offers data converters but is more automated with better UI/UX
 - [MultiversX Transactioneer](https://elrond-transactioneer.vercel.app) - Create, Edit, Import, Export, Send & Batch Send transactions on any Elrond network.
 - [ESDT Faucet](https://devnet-multiversx-esdt-faucet.netlify.app/) - Deposit and Claim ESDT tokens
