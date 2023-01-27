@@ -75,6 +75,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 - [MultiversX dApp template](https://github.com/multiversx/mx-template-dapp) - The official dApp template provided by the MultiversX team using React.js & Typescript. It's a basic implementation of [@multiversx/sdk-dapp](https://www.npmjs.com/package/@multiversx/sdk-dapp), providing the basics for MultiversX authentication and TX signing.
 - [MultiversX Playground](https://play.elrond.com/) - Smart contracts playground. You can choose from a couple of templates or write your smart contract. You can even build and deploy it.
 - [NFT service](https://github.com/multiversx/mx-nft-service) - GraphQl service to provide informations regarding nfts and auctions on MultiversX Blockchain
+- [xExchange service](https://github.com/multiversx/mx-exchange-service) - Decentralized Exchange Service based on GraphQL
 
 ### Explorers and APIs
 
