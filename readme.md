@@ -36,6 +36,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Exchange](https://github.com/multiversx/mx-exchange-sc) - These are the core Smart Contracts and the foundation exchange.
 - [NFT Marketplace](https://github.com/multiversx/mx-nft-marketplace-sc)
 - [NFT Collection Minter](https://github.com/multiversx/mx-nft-collection-minter-sc)
+- [Liquid Staking](https://github.com/multiversx/mx-liquid-staking-sc)
 
 ### SDKs and dev tools
 
@@ -76,6 +77,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 - [MultiversX Playground](https://play.elrond.com/) - Smart contracts playground. You can choose from a couple of templates or write your smart contract. You can even build and deploy it.
 - [NFT service](https://github.com/multiversx/mx-nft-service) - GraphQl service to provide informations regarding nfts and auctions on MultiversX Blockchain
 - [xExchange service](https://github.com/multiversx/mx-exchange-service) - Decentralized Exchange Service based on GraphQL
+- [Latest MultiversX Releases](https://multiversx.com/releases) - The feed to help you catch up with latest releases
 
 ### Explorers and APIs
 
