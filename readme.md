@@ -133,6 +133,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [PHP Network Providers API](https://github.com/PeerMeHQ/mx-sdk-php-network-providers) - Network Provider API components (compatible with mx-sdk-php)
 - [Mx.NET.SDK](https://github.com/RemarkableTools/Mx.NET.SDK) - MultiversX .NET SDK: Complex library for interacting with MultiversX blockchain
 - [Mx.NET.SDK.WalletProviders](https://github.com/RemarkableTools/Mx.NET.SDK.WalletProviders) - MultiversX .NET SDK: Unique library for interacting with Wallet Providers. Create connection and sign transactions.
+- [Mx.Blazor.DApp](https://github.com/RemarkableTools/Mx.Blazor.DApp) - Blazor DApp is a template application built using Blazor UI framework and ASP.NET Core server application
 
 ### Articles and tutorials
 
