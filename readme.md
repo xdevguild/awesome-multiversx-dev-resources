@@ -126,6 +126,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [erdjs-auth](https://github.com/Elrond-Giants/erdjs-auth) by [Elrond Giants](https://elrondgiants.com) - This library aims to make it easy to authenticate and sign transactions. It offers a common interface for all auth providers.
 - [erd-react-hooks](https://github.com/Elrond-Giants/erd-react-hooks) by [Elrond Giants](https://elrondgiants.com) - This is a library of React hooks built for the MultiversX ecosystem. It aims to make it easy to authenticate, sign and send transactions, and query smart contracts.
 - [elven.js](https://github.com/juliancwirko/elven.js) - The script for interactions with the protocol and smart contracts in the browser, no bundlers nor frameworks are required, just browser and script tag. Can be loaded from CDN
+- [useElven](https://www.useelven.com) - React hooks for MultiversX blockchain. A set of tools for React-based apps using JS SDK. Integrates well with Next.js and Vite + React projects.
 - [MultiversX Unity Tools](https://github.com/chainofindustry/MultiversXUnityTools) - A work-in-progress set of tools to interact with MultiversX Blockchain directly from a Unity app.
 - [AssemblyScript framework for MultiversX VM](https://github.com/gfusee/elrond-wasm-as) - AssemblyScript smart contract library designed for Elrond's VM.
 - [MultiversX SDK for Laravel](https://github.com/PeerMeHQ/mx-sdk-laravel) - MultiversX SDK for Laravel (written in PHP)
