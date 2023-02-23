@@ -170,6 +170,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 - [XConverters](https://xconverters.netlify.app/) - Another app that offers data converters but is more automated with better UI/UX
 - [MultiversX Transactioneer](https://elrond-transactioneer.vercel.app) - Create, Edit, Import, Export, Send & Batch Send transactions on any Elrond network.
 - [ESDT Faucet](https://devnet-multiversx-esdt-faucet.netlify.app/) - Deposit and Claim ESDT tokens
+- [xSafe Multisig UI](https://github.com/validblocks/xSafe) - This is the source code of the xSafe Multisig UI for the Multisig SC developed by the MultiversX team.
 
 ### Dapps Source Code
 
