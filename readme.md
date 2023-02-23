@@ -135,6 +135,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Mx.NET.SDK](https://github.com/RemarkableTools/Mx.NET.SDK) - MultiversX .NET SDK: Complex library for interacting with MultiversX blockchain
 - [Mx.NET.SDK.WalletProviders](https://github.com/RemarkableTools/Mx.NET.SDK.WalletProviders) - MultiversX .NET SDK: Unique library for interacting with Wallet Providers. Create connection and sign transactions.
 - [Mx.Blazor.DApp](https://github.com/RemarkableTools/Mx.Blazor.DApp) - Blazor DApp is a template application built using Blazor UI framework and ASP.NET Core server application
+- [Rust Utilities by Angry-Penguins-Colony](https://github.com/Angry-Penguins-Colony/mx-rust-utilities) - Utilities to manipulate ManagedBuffer, ManagedVec and array
 
 ### Articles and tutorials
 
