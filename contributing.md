@@ -4,7 +4,7 @@
 
 Make sure that you are sending the development related stuff following guidelines:
 
-- It can be an official Elrond tool
+- It can be an official MultiversX tool
 - It can be open source tool
 - It can be closed source tooling but helpful for the development and available for everyone through an app
 - It can be a dev article, blog post, tutorial
