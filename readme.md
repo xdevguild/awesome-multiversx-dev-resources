@@ -110,6 +110,8 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [eNftMemes Smart Contracts](https://github.com/eNftMemes/memes-sc) - Smart contracts code for the https://enftmemes.com. Includes decentralized voting, computing of a Top 10 based on votes, creating nft & updating attributes, signature verification with example etc
 - [Multi Sender smart contract](https://github.com/xdevguild/sc-multi-sender-rs) - A multi-sender smart contract that allows you to send EGLD, ESDTs and NFTs to multiple addresses in one transaction
 - [ESDT Faucet SC](https://github.com/xdevguild/esdt-faucet-sc) - ESDT Faucet - claim, deposit ESDT tokens
+- [Vesting SC](https://github.com/Moonlorian/vesting-dapp/tree/main/sc) - Token vesting smart contract 
+- [CoinDrip Protocol](https://github.com/CoinDrip-finance/coindrip-protocol-sc) - Token (ESDT) streaming smart contract
 
 ### SDKs and dev tools
 
@@ -175,6 +177,9 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 ### Dapps Source Code
 
 - [Middleman.nft](https://www.middleman-nft.com/) - A secure way to exchange NFTs with a smart contract that acts as a trusted third party. Open source code of the frontend [here](https://github.com/yum0e/front-nft-middleman).
+- [Vesting dApp](https://github.com/Moonlorian/vesting-dapp/tree/main/dapp) - Token vesting dApp
+- [Elven Tools Dapp](https://github.com/ElvenTools/elven-tools-dapp) - The dapp used by Elven Tools project
+- [ESDT Faucet Dapp](https://github.com/xdevguild/esdt-faucet-dapp) - The ESDT tokens foucet app for the devnet/testnet
 
 ### Explorers and APIs
 
