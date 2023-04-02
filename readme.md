@@ -102,7 +102,8 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 
 ### Smart contracts
 
-- [Elven NFT Minter Smart Contract](https://github.com/ElvenTools/elven-nft-minter-sc) - Mint and sell NFT collections. It has features like issue collection, setting creation role, pause/unpause, random minting, giveaway, split minting into batches, and more.
+- [Elven Tools NFT Minter Smart Contract](https://github.com/ElvenTools/elven-nft-minter-sc) - Mint and sell NFT collections. It has features like issue collection, setting creation role, pause/unpause, random minting, giveaway, split minting into batches, and more.
+- [Elven Tools SFT Minter Smart Contract](https://github.com/ElvenTools/elven-tools-sft-minter-sc) - SFT minter and vending machine smart contract
 - [Simple Piggybank Smart Contract](https://github.com/xdevguild/multiversx-simple-sc) - smart contract for learning purposes
 - [Middleman.nft Smart Contract](https://github.com/yum0e/middleman-nft) - Create or delete offers for a P2P exchange between two known users. Simple smart contract and its associated snippets.
 - [Presale Smart Contract](https://github.com/xdevguild/elrond-pack-presale-sc) - Token Presale with Packs. Each pack has given egld amount and bonus percentage for presale token
