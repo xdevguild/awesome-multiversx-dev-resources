@@ -78,6 +78,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 - [NFT service](https://github.com/multiversx/mx-nft-service) - GraphQl service to provide informations regarding nfts and auctions on MultiversX Blockchain
 - [xExchange service](https://github.com/multiversx/mx-exchange-service) - Decentralized Exchange Service based on GraphQL
 - [Latest MultiversX Releases](https://multiversx.com/releases) - The feed to help you catch up with latest releases
+- [MultiversX Utils](https://utils.multiversx.com/) - This page offers an easy to use pack of utilities necessary for interacting with the MultiversX Blockchain
 
 ### Explorers and APIs
 
