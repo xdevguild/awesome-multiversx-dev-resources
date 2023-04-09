@@ -79,6 +79,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 - [xExchange service](https://github.com/multiversx/mx-exchange-service) - Decentralized Exchange Service based on GraphQL
 - [Latest MultiversX Releases](https://multiversx.com/releases) - The feed to help you catch up with latest releases
 - [MultiversX Utils](https://utils.multiversx.com/) - This page offers an easy to use pack of utilities necessary for interacting with the MultiversX Blockchain
+- [MultiversX Status page](https://status.multiversx.com/) - real-time status for public MultiversX services
 
 ### Explorers and APIs
 
