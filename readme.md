@@ -143,6 +143,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Rust Utilities by Angry-Penguins-Colony](https://github.com/Angry-Penguins-Colony/mx-rust-utilities) - Utilities to manipulate ManagedBuffer, ManagedVec and array
 - [xNetwork](https://github.com/gfusee/xnetwork) - This project provides an easy way to run a local testnet of MultiversX and its associated API, with no configuration required
 - [React + Vite dApp template](https://github.com/esdt-space/mx-dapp-template) - This template makes it easy to quickly get started building dApps on MultiversX, providing the basics for MultiversX authentication and transaction signing
+- [MxOps](https://github.com/Catenscia/MxOps) - Python package to automate MultiversX smart contracts interactions
 
 ### Articles and tutorials
 
