@@ -204,7 +204,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 
 Articles behind the paywall or tools which require payment to use them.
 
-- [RockX](https://access.rockx.com/product/elrond-blockchain-api-for-web3-builders) - 3rd party MultiversX API provider, they also have limited free plans
+- [RockX](https://www.rockx.com/) - 3rd party MultiversX API provider, they also have limited free plans
 - [Tatum](https://tatum.io) - 3rd party MultiversX API provider, they also have limited free plans
 - [Blast](https://blastapi.io) - 3rd party MultiversX API provider, they also have limited free plans
 
