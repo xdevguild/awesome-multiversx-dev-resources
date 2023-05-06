@@ -145,6 +145,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [React + Vite dApp template](https://github.com/esdt-space/mx-dapp-template) - This template makes it easy to quickly get started building dApps on MultiversX, providing the basics for MultiversX authentication and transaction signing
 - [MxOps](https://github.com/Catenscia/MxOps) - Python package to automate MultiversX smart contracts interactions
 - [WenPlay](https://wenmoonstudios.com/wenplay/) - Unreal Engine 5 implementation of WalletConnect protocol with MultiversX blockchain interaction by WenMoon Studios
+- [Golang SDK](https://github.com/stakingagency/sa-mx-sdk-go) - MultiversX Golang SDK by Staking Agency
 
 ### Articles and tutorials
 
