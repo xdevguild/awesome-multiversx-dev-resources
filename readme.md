@@ -146,6 +146,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [MxOps](https://github.com/Catenscia/MxOps) - Python package to automate MultiversX smart contracts interactions
 - [WenPlay](https://wenmoonstudios.com/wenplay/) - Unreal Engine 5 implementation of WalletConnect protocol with MultiversX blockchain interaction by WenMoon Studios
 - [Golang SDK](https://github.com/stakingagency/sa-mx-sdk-go) - MultiversX Golang SDK by Staking Agency
+- [MultiFungibleLibrary](https://dgomezde83.github.io/multifungible.github.io/index.html) - Cross-platform library written in C++ that allows to seamlessly create and manage non-fungible tokens (NFTs) and semi-fungible tokens (SFTs)
 
 ### Articles and tutorials
 
