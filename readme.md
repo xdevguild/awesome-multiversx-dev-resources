@@ -147,6 +147,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [WenPlay](https://wenmoonstudios.com/wenplay/) - Unreal Engine 5 implementation of WalletConnect protocol with MultiversX blockchain interaction by WenMoon Studios
 - [Golang SDK](https://github.com/stakingagency/sa-mx-sdk-go) - MultiversX Golang SDK by Staking Agency
 - [MultiFungibleLibrary](https://dgomezde83.github.io/multifungible.github.io/index.html) - Cross-platform library written in C++ that allows to seamlessly create and manage non-fungible tokens (NFTs) and semi-fungible tokens (SFTs)
+- [mx-xportalhub-chrome](https://github.com/stephaneLeroy/mx-xportalhub-chrome) - Chrome extension for testing XportalHub integration.
 
 ### Articles and tutorials
 
