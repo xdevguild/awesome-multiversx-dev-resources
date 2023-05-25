@@ -115,6 +115,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [ESDT Faucet SC](https://github.com/xdevguild/esdt-faucet-sc) - ESDT Faucet - claim, deposit ESDT tokens
 - [Vesting SC](https://github.com/Moonlorian/vesting-dapp/tree/main/sc) - Token vesting smart contract 
 - [CoinDrip Protocol](https://github.com/CoinDrip-finance/coindrip-protocol-sc) - Token (ESDT) streaming smart contract
+- [Fundraising-SC](https://github.com/Vital-Network/Fundraising-SC) - MultiversX Fundraising Smart Contract allowing the creation of pots with or without objectives, with or without deadlines.
 
 ### SDKs and dev tools
 
