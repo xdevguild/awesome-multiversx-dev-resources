@@ -197,6 +197,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 - [Maiar Tokens API](https://maiartokens.com)
 - [Elrond Scan](https://elrondscan.com)
 - [Big Dipper Elrond Explorer](https://elrond.bigdipper.live)
+- [Kattana Trading](https://app.kattana.io)
 
 ## MultiversX Dev groups
 
