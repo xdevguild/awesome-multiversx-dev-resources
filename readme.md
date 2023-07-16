@@ -162,6 +162,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [How to enable donations on any website using the MultiversX blockchain and EGLD tokens](https://dev.to/juliancwirko/how-to-enable-donations-on-any-website-using-the-elrond-blockchain-and-egld-tokens-3fkf)
 - [Fetching MultiversX API using Next.js](https://borispoehland.notion.site/borispoehland/Fetch-Elrond-API-using-Next-js-e5685a624d1546fdbee636b7cfa314ba)
 - [AssemblyScript version of the Crowdfunding tutorial](https://fusee.gitbook.io/elrond-wasm-as/the-crowdfunding-smart-contract/the-crowdfunding-smart-contract-part-1) 
+ - [How to generate a MultiversX wallet in a specific shard (Tech Tutorial)](https://blog.giantsvillage.com/how-to-generate-a-multiversx-wallet-in-a-specific-shard-tech-tutorial-458d565caed6)
 
 ### Videos
 
