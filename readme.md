@@ -80,6 +80,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 - [Latest MultiversX Releases](https://multiversx.com/releases) - The feed to help you catch up with latest releases
 - [MultiversX Utils](https://utils.multiversx.com/) - This page offers an easy to use pack of utilities necessary for interacting with the MultiversX Blockchain
 - [MultiversX Status page](https://status.multiversx.com/) - real-time status for public MultiversX services
+- [Trusted Co-Signer Service](https://github.com/multiversx/mx-multi-factor-auth-go-service) - It is the component that automates most of the Guardian processes and makes it easy for users to turn wallets into unbreakable vaults
 
 ### Explorers and APIs
 
