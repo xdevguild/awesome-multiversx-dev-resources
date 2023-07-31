@@ -118,6 +118,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [CoinDrip Protocol](https://github.com/CoinDrip-finance/coindrip-protocol-sc) - Token (ESDT) streaming smart contract
 - [Fundraising-SC](https://github.com/Vital-Network/Fundraising-SC) - MultiversX Fundraising Smart Contract allowing the creation of pots with or without objectives, with or without deadlines.
 - [AshSwap Aggregator Smart Contract](https://github.com/ashswap/ash-aggregator-sc) - Aggregator smart contracts act as an intermediary router to exchange tokens between multiple protocols.
+- [Nifty Maze & Proxy Ping Smart Contracts](https://github.com/NiftyWell/nifty-maze/tree/main) - smart-contract-based mini-game
 
 ### SDKs and dev tools
 
