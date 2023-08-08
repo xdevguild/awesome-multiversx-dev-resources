@@ -190,6 +190,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 - [MultiversX Transactioneer](https://elrond-transactioneer.vercel.app) - Create, Edit, Import, Export, Send & Batch Send transactions on any Elrond network.
 - [ESDT Faucet](https://devnet-multiversx-esdt-faucet.netlify.app/) - Deposit and Claim ESDT tokens
 - [xSafe Multisig UI](https://github.com/validblocks/xSafe) - This is the source code of the xSafe Multisig UI for the Multisig SC developed by the MultiversX team.
+- [MX Tools](https://mx-tools.com/) - Query Smart Contracts using ABI, create wallets in different shards
 
 ### Dapps Source Code
 
