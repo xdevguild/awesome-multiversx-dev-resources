@@ -184,6 +184,8 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 
 ### Dev dApps
 
+Remember to always be careful when interacting with third-party dApps. Especially when it involves sending seeds, PEM, and keystore files. You should probably avoid that when interacting with the mainnet.
+
 - [R3D4](https://r3d4.fr) - Faucet, ESDT tools, Stats
 - [Converters for MultiversX Blockchain](http://207.244.241.38/elrond-converters) - This page offers an easy-to-use pack of data converters for interacting with MultiversX Blockchain.
 - [XConverters](https://xconverters.netlify.app/) - Another app that offers data converters but is more automated with better UI/UX
