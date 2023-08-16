@@ -154,6 +154,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [mx-xportalhub-chrome](https://github.com/stephaneLeroy/mx-xportalhub-chrome) - Chrome extension for testing XportalHub integration.
 - [mxbi](https://github.com/VortX-DAO/mxbi) - mxbi is a command-line interface (CLI) tool that generates graphql backend code for MX smart contract endpoints
 - [ABI2API](https://github.com/SkullElf/ABI2API) - ABI2API is a Python library for converting smart contract ABI (Application Binary Interface) on the MultiversX blockchain into a RESTful API
+- [ABIExtractor](https://github.com/SkullElf/ABIExtractor) - ABI Extractor is a Python tool designed to extract ABI JSONs, and smart contract (SC) addresses from dApp JavaScript files.
 
 ### Articles and tutorials
 
