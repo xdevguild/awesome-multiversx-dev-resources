@@ -12,6 +12,7 @@
   - [Dev dApps](#dev-dapps)
   - [Explorers and APIs](#explorers-and-apis)
   - [Wallets](#wallets)
+  - [Forum](#forum)
 - [MultiversX community](#multiversx-community)
   - [Smart contracts](#smart-contracts-1)
   - [SDKs and dev tools](#sdks-and-dev-tools-1)
@@ -81,7 +82,6 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 - [MultiversX Utils](https://utils.multiversx.com/) - This page offers an easy to use pack of utilities necessary for interacting with the MultiversX Blockchain
 - [MultiversX Status page](https://status.multiversx.com/) - real-time status for public MultiversX services
 - [Trusted Co-Signer Service](https://github.com/multiversx/mx-multi-factor-auth-go-service) - It is the component that automates most of the Guardian processes and makes it easy for users to turn wallets into unbreakable vaults
-- [xExchange Agora](https://agora.xexchange.com/) - Discuss all things related to xExchange. You can also post and discuss drafts of xExchange Improvement Proposals (xEIPs).
 
 ### Explorers and APIs
 
@@ -99,6 +99,10 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 - [Mainnet Web wallet](https://wallet.multiversx.com/)
 - [xPortal App](https://xportal.com/) - mobile app
 - [MultiversX Defi Wallet](https://chrome.google.com/webstore/detail/multiversx-defi-wallet/dngmlblcodfobpdpecaadgfbcggfjfnm) - browser extension
+
+## Forum
+- [MultiversX Agora](https://agora.multiversx.com/) - The place of discussions and brainstorming sessions dedicated to the ongoing development, security, and expansion of the MultiversX Protocol.
+- [xExchange Agora](https://agora.xexchange.com/) - Discuss all things related to xExchange. You can also post and discuss drafts of xExchange Improvement Proposals (xEIPs).
 
 ## MultiversX community
 
