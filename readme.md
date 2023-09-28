@@ -156,6 +156,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [mxbi](https://github.com/VortX-DAO/mxbi) - mxbi is a command-line interface (CLI) tool that generates graphql backend code for MX smart contract endpoints
 - [ABI2API](https://github.com/SkullElf/ABI2API) - ABI2API is a Python library for converting smart contract ABI (Application Binary Interface) on the MultiversX blockchain into a RESTful API
 - [ABIExtractor](https://github.com/SkullElf/ABIExtractor) - ABI Extractor is a Python tool designed to extract ABI JSONs, and smart contract (SC) addresses from dApp JavaScript files.
+- [Spring Boot Starter Reactive](https://github.com/crldev-software/multiversx-spring-boot-starter-reactive) - Spring Boot Starter project for integrating with the MultiversX Network, with the goal of achieving an effortless autoconfigured integration with the network.
 
 ### Articles and tutorials
 
@@ -194,7 +195,7 @@ Remember to always be careful when interacting with third-party dApps. Especiall
 - [MultiversX Transactioneer](https://elrond-transactioneer.vercel.app) - Create, Edit, Import, Export, Send & Batch Send transactions on any Elrond network.
 - [ESDT Faucet](https://devnet-multiversx-esdt-faucet.netlify.app/) - Deposit and Claim ESDT tokens
 - [xSafe Multisig UI](https://github.com/validblocks/xSafe) - This is the source code of the xSafe Multisig UI for the Multisig SC developed by the MultiversX team.
-- [MX Tools](https://mx-tools.com/) - Query Smart Contracts using ABI, create wallets in different shards
+- [xSmartDeploy](https://devnet.xsmartdeploy.com/) - Deploy smart contracts through the web app
 
 ### Dapps Source Code
 
