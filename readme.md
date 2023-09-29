@@ -161,6 +161,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [ABI2API](https://github.com/SkullElf/ABI2API) - ABI2API is a Python library for converting smart contract ABI (Application Binary Interface) on the MultiversX blockchain into a RESTful API
 - [ABIExtractor](https://github.com/SkullElf/ABIExtractor) - ABI Extractor is a Python tool designed to extract ABI JSONs, and smart contract (SC) addresses from dApp JavaScript files.
 - [Spring Boot Starter Reactive](https://github.com/crldev-software/multiversx-spring-boot-starter-reactive) - Spring Boot Starter project for integrating with the MultiversX Network, with the goal of achieving an effortless autoconfigured integration with the network.
+- [xSuite](https://github.com/arda-org/xSuite) - Init, Build, Test, Deploy MultiversX smart contracts in seconds. The full suite for efficiently developing high-quality contracts.
 
 ### Articles and tutorials
 
