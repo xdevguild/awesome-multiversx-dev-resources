@@ -27,7 +27,7 @@
 
 ## MultiversX official
 
-Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
+Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stuff.
 
 ### Smart contracts
 
@@ -41,8 +41,10 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 
 ### SDKs and dev tools
 
-- [Wasm framework](https://github.com/multiversx/mx-sdk-rs) - Rust smart contract library designed for MultiversX VM. Also provides a debugging mode with mocks.
+- [Wasm framework](https://github.com/multiversx/mx-sdk-rs) - Rust smart contract library designed for MultiversX VM. Also provides a debugging mode with mocks
 - [Javascript SDK](https://github.com/multiversx/mx-sdk-js-core) - Official TS/JS SDK for interacting with the MultiversX Network and MultiversX Smart Contracts using Javascript (written in Typescript)
+- [React Dapp SDK](https://github.com/multiversx/mx-sdk-dapp) - A library that holds the core functional logic of a dapp on the MultiversX
+- [NextJS SDK](https://github.com/multiversx/mx-sdk-nestjs) - This package contains a set of utilities commonly used in the MultiversX Microservice ecosystem
 - [Python SDK](https://github.com/multiversx/mx-sdk-py-cli) - Command line tools and Python SDK for interacting with the MultiversX Network and MultiversX Smart Contracts
 - [Go SDK](https://github.com/multiversx/mx-sdk-go) - Go helpers and utilities for interacting with the MultiversX Blockchain
 - [VSCode IDE](https://marketplace.visualstudio.com/items?itemName=Elrond.vscode-elrond-ide)
@@ -64,10 +66,26 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Storage Mappers](https://docs.multiversx.com/developers/developer-reference/storage-mappers)
 
 ### Videos
-
 Please be aware that videos can be outdated. Always verify them with the docs.
 
-- [Smart Contracts in minutes with the MultiversX Play web IDE](https://youtu.be/mSf-c4pMXjU)
+- [The Power of Smart Contracts Composability - DEX, Governance, Bridge](https://www.youtube.com/watch?v=BOyMNzsxeFI)
+- [Building Hybrid Apps Between Web2 and Web3 Using MultiversX Libraries](https://www.youtube.com/watch?v=FO41nlIApu4)
+- [Advanced Microservices Architecture](https://www.youtube.com/watch?v=l_hFxmrX-lI)
+- [xSuite: Init, Build, Test, Deploy MultiversX contracts in seconds](https://www.youtube.com/watch?v=IQbtAVI-d5Y)
+- [Introduction to ESDTs on MultiversX](https://www.youtube.com/watch?v=kyPMo6LPMc4)
+- [MultiversX Unity tools](https://www.youtube.com/watch?v=kElMjlLxaAo)
+- [Interact with MultiversX Blockchain using sdk-py](https://www.youtube.com/watch?v=xEj8S-d5wxs)
+- [Interact with MultiversX Blockchain using sdk-js](https://www.youtube.com/watch?v=vAa1fxxmjYU)
+- [Interact with MultiversX Blockchain using mxpy](https://www.youtube.com/watch?v=KeYP_oTlJH8)
+- [Creating a React Native Wallet for Multiversx](https://www.youtube.com/watch?v=ORJp0wFCzFI)
+- [How to write an SC on the MultiversX blockchain - Part 1](https://www.youtube.com/watch?v=BALVrahGeJ8)
+- [How to write an SC on the MultiversX blockchain - Part 2](https://www.youtube.com/watch?v=VBj4H6B6N9k)
+- [MultiversX VM general presentation - Part 1](https://www.youtube.com/watch?v=e2ZbxQ3kGoM)
+- [MultiversX VM general presentation - Part 2](https://www.youtube.com/watch?v=x5ULIBNHyjg)
+- [MultiversX Smart Contract Development Framework](https://www.youtube.com/watch?v=FwD9su3kTgU)
+- [General microservices workshop at MultiversX](https://www.youtube.com/watch?v=6m4o_NkLP8o)
+- [MultiversX introduction to sdk-dapp](https://www.youtube.com/watch?v=eMNIN5ip2w0)
+- [MultiversX Smart Contract Testing Framework](https://www.youtube.com/watch?v=kgXtHBWU1-8)
 - [MultiversX Developers Guide: Build your first Microservice](https://youtu.be/pd-vSIiw6Us)
 - [Guide: create your first dApp on MultiversX Network in 15 minutes](https://youtu.be/IdkgvlK3rb8)
 - [MultiversX IDE Presentation & Tutorial](https://youtu.be/bXbBfJCRVqE)
@@ -75,11 +93,10 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 ### Dev dApps
 
 - [MultiversX dApp template](https://github.com/multiversx/mx-template-dapp) - The official dApp template provided by the MultiversX team using React.js & Typescript. It's a basic implementation of [@multiversx/sdk-dapp](https://www.npmjs.com/package/@multiversx/sdk-dapp), providing the basics for MultiversX authentication and TX signing.
-- [MultiversX Playground](https://play.elrond.com/) - Smart contracts playground. You can choose from a couple of templates or write your smart contract. You can even build and deploy it.
-- [NFT service](https://github.com/multiversx/mx-nft-service) - GraphQl service to provide informations regarding nfts and auctions on MultiversX Blockchain
+- [NFT service](https://github.com/multiversx/mx-nft-service) - GraphQl service to provide information regarding NFTs and auctions on MultiversX Blockchain
 - [xExchange service](https://github.com/multiversx/mx-exchange-service) - Decentralized Exchange Service based on GraphQL
-- [Latest MultiversX Releases](https://multiversx.com/releases) - The feed to help you catch up with latest releases
-- [MultiversX Utils](https://utils.multiversx.com/) - This page offers an easy to use pack of utilities necessary for interacting with the MultiversX Blockchain
+- [Latest MultiversX Releases](https://multiversx.com/releases) - The feed to help you catch up with the latest releases
+- [MultiversX Utils](https://utils.multiversx.com/) - This page offers an easy-to-use pack of utilities necessary for interacting with the MultiversX Blockchain
 - [MultiversX Status page](https://status.multiversx.com/) - real-time status for public MultiversX services
 - [Trusted Co-Signer Service](https://github.com/multiversx/mx-multi-factor-auth-go-service) - It is the component that automates most of the Guardian processes and makes it easy for users to turn wallets into unbreakable vaults
 
@@ -105,8 +122,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 - [xExchange Agora](https://agora.xexchange.com/) - Discuss all things related to xExchange. You can also post and discuss drafts of xExchange Improvement Proposals (xEIPs).
 
 ## MultiversX community
-
-Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
+Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stuff.
 
 ### Smart contracts
 
@@ -114,10 +130,10 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [Elven Tools SFT Minter Smart Contract](https://github.com/ElvenTools/elven-tools-sft-minter-sc) - SFT minter and vending machine smart contract
 - [Simple Piggybank Smart Contract](https://github.com/xdevguild/multiversx-simple-sc) - smart contract for learning purposes
 - [Middleman.nft Smart Contract](https://github.com/yum0e/middleman-nft) - Create or delete offers for a P2P exchange between two known users. Simple smart contract and its associated snippets.
-- [Presale Smart Contract](https://github.com/xdevguild/elrond-pack-presale-sc) - Token Presale with Packs. Each pack has given egld amount and bonus percentage for presale token
+- [Presale Smart Contract](https://github.com/xdevguild/elrond-pack-presale-sc) - Token Presale with Packs. Each pack has given EGLD amount and bonus percentage for the presale token
 - [xBulk](https://github.com/defralcoding/xBulk) - smart contract for handling bulk transactions
-- [eNftMemes Smart Contracts](https://github.com/eNftMemes/memes-sc) - Smart contracts code for the https://enftmemes.com. Includes decentralized voting, computing of a Top 10 based on votes, creating nft & updating attributes, signature verification with example etc
-- [Multi Sender smart contract](https://github.com/xdevguild/sc-multi-sender-rs) - A multi-sender smart contract that allows you to send EGLD, ESDTs and NFTs to multiple addresses in one transaction
+- [eNftMemes Smart Contracts](https://github.com/eNftMemes/memes-sc) - Smart contracts code for the https://enftmemes.com. Includes decentralized voting, computing of a Top 10 based on votes, creating NFT & updating attributes, signature verification with example, etc
+- [Multi Sender smart contract](https://github.com/xdevguild/sc-multi-sender-rs) - A multi-sender smart contract that allows you to send EGLD, ESDTs, and NFTs to multiple addresses in one transaction
 - [ESDT Faucet SC](https://github.com/xdevguild/esdt-faucet-sc) - ESDT Faucet - claim, deposit ESDT tokens
 - [Vesting SC](https://github.com/Moonlorian/vesting-dapp/tree/main/sc) - Token vesting smart contract 
 - [CoinDrip Protocol](https://github.com/CoinDrip-finance/coindrip-protocol-sc) - Token (ESDT) streaming smart contract
@@ -136,10 +152,10 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [NextJS dApp template](https://github.com/Elrond-Giants/erd-next-starter) by [Elrond Giants](https://elrondgiants.com) - A dApp template made using JS SDK & nextjs
 - [LKMEX airdrop](https://github.com/xdevguild/esdt-and-lkmek-airdrop-scripts) - Python script that performs an airdrop of LKMEX to NFT holders
 - [Buildo Begins](https://github.com/xdevguild/buildo-begins) - CLI tool that uses JS SDK. Its primary purpose is to simplify interaction with the Elrond blockchain and smart contracts - sending tokens, issuing, also API interactions - custom filtering and exports (still WIP, but functional)
-- [elrond-sft](https://www.npmjs.com/package/elrond-sft) by [Elrond Giants](https://elrondgiants.com) - A CLI tool you can use to execute SFT related operations like issue token, set roles, mint, add quantity, burn, airdrops
+- [elrond-sft](https://www.npmjs.com/package/elrond-sft) by [Elrond Giants](https://elrondgiants.com) - A CLI tool you can use to execute SFT-related operations like issue token, set roles, mint, add quantity, burn, airdrops
 - [erdjs-auth](https://github.com/Elrond-Giants/erdjs-auth) by [Elrond Giants](https://elrondgiants.com) - This library aims to make it easy to authenticate and sign transactions. It offers a common interface for all auth providers.
 - [erd-react-hooks](https://github.com/Elrond-Giants/erd-react-hooks) by [Elrond Giants](https://elrondgiants.com) - This is a library of React hooks built for the MultiversX ecosystem. It aims to make it easy to authenticate, sign and send transactions, and query smart contracts.
-- [elven.js](https://github.com/juliancwirko/elven.js) - The script for interactions with the protocol and smart contracts in the browser, no bundlers nor frameworks are required, just browser and script tag. Can be loaded from CDN
+- [elven.js](https://www.elvenjs.com) - The script for interactions with the protocol and smart contracts in the browser. No bundlers nor frameworks are required, just browser and script tag. Can be loaded from CDN
 - [useElven](https://www.useelven.com) - React hooks for MultiversX blockchain. A set of tools for React-based apps using JS SDK. Integrates well with Next.js and Vite + React projects.
 - [MultiversX Unity Tools](https://github.com/chainofindustry/MultiversXUnityTools) - A work-in-progress set of tools to interact with MultiversX Blockchain directly from a Unity app.
 - [AssemblyScript framework for MultiversX VM](https://github.com/gfusee/elrond-wasm-as) - AssemblyScript smart contract library designed for Elrond's VM.
@@ -148,7 +164,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [PHP Network Providers API](https://github.com/PeerMeHQ/mx-sdk-php-network-providers) - Network Provider API components (compatible with mx-sdk-php)
 - [Mx.NET.SDK](https://github.com/RemarkableTools/Mx.NET.SDK) - MultiversX .NET SDK: Complex library for interacting with MultiversX blockchain
 - [Mx.NET.SDK.WalletProviders](https://github.com/RemarkableTools/Mx.NET.SDK.WalletProviders) - MultiversX .NET SDK: Unique library for interacting with Wallet Providers. Create connection and sign transactions.
-- [Mx.Blazor.DApp](https://github.com/RemarkableTools/Mx.Blazor.DApp) - Blazor DApp is a template application built using Blazor UI framework and ASP.NET Core server application
+- [Mx.Blazor.DApp](https://github.com/RemarkableTools/Mx.Blazor.DApp) - Blazor DApp is a template application built using the Blazor UI framework and ASP.NET Core server application
 - [Rust Utilities by Angry-Penguins-Colony](https://github.com/Angry-Penguins-Colony/mx-rust-utilities) - Utilities to manipulate ManagedBuffer, ManagedVec and array
 - [xNetwork](https://github.com/gfusee/xnetwork) - This project provides an easy way to run a local testnet of MultiversX and its associated API, with no configuration required
 - [React + Vite dApp template](https://github.com/esdt-space/mx-dapp-template) - This template makes it easy to quickly get started building dApps on MultiversX, providing the basics for MultiversX authentication and transaction signing
@@ -164,6 +180,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
 - [xSuite](https://github.com/arda-org/xSuite) - Init, Build, Test, Deploy MultiversX smart contracts in seconds. The full suite for efficiently developing high-quality contracts.
 
 ### Articles and tutorials
+Please be aware that articles can be outdated. Always verify them with the docs.
 
 - [Linux environment for development](https://elrond-dev-guild.gitbook.io/scrolls/readme/linux-environment-for-development)
 - [Setup the JS SDK workflow and issue an ESDT token in NodeJS environment](https://elrond-dev-guild.gitbook.io/scrolls/erdjs/how-tos/setup-erdjs-and-issue-esdt-token)
@@ -176,7 +193,6 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.
  - [How to generate a MultiversX wallet in a specific shard (Tech Tutorial)](https://blog.giantsvillage.com/how-to-generate-a-multiversx-wallet-in-a-specific-shard-tech-tutorial-458d565caed6)
 
 ### Videos
-
 Please be aware that videos can be outdated. Always verify them with the docs.
 
 - [MultiversX VSCode IDE extension walkthrough](https://youtu.be/y0beoihLppA)
@@ -191,7 +207,6 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 - [Save a key-value data under your MultiversX account with Buildo CLI](https://youtu.be/gPVUkOgak1E)
 
 ### Dev dApps
-
 Remember to always be careful when interacting with third-party dApps. Especially when it involves sending seeds, PEM, and keystore files. You should probably avoid that when interacting with the mainnet.
 
 - [R3D4](https://r3d4.fr) - Faucet, ESDT tools, Stats
@@ -207,7 +222,7 @@ Remember to always be careful when interacting with third-party dApps. Especiall
 - [Middleman.nft](https://www.middleman-nft.com/) - A secure way to exchange NFTs with a smart contract that acts as a trusted third party. Open source code of the frontend [here](https://github.com/yum0e/front-nft-middleman).
 - [Vesting dApp](https://github.com/Moonlorian/vesting-dapp/tree/main/dapp) - Token vesting dApp
 - [Elven Tools Dapp](https://github.com/ElvenTools/elven-tools-dapp) - The dapp used by Elven Tools project
-- [ESDT Faucet Dapp](https://github.com/xdevguild/esdt-faucet-dapp) - The ESDT tokens foucet app for the devnet/testnet
+- [ESDT Faucet Dapp](https://github.com/xdevguild/esdt-faucet-dapp) - The ESDT tokens faucet app for the devnet/testnet
 
 ### Explorers and APIs
 
@@ -223,8 +238,7 @@ Remember to always be careful when interacting with third-party dApps. Especiall
 - [StackOverflow](https://stackoverflow.com/questions/tagged/elrond)
 
 ## Paid MultiversX content and tools
-
-Articles behind the paywall or tools which require payment to use them.
+Articles behind the paywall or tools that require payment to use them.
 
 - [RockX](https://www.rockx.com/) - 3rd party MultiversX API provider, they also have limited free plans
 - [Tatum](https://tatum.io) - 3rd party MultiversX API provider, they also have limited free plans
