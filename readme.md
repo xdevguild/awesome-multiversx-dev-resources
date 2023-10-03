@@ -178,6 +178,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 - [ABIExtractor](https://github.com/SkullElf/ABIExtractor) - ABI Extractor is a Python tool designed to extract ABI JSONs, and smart contract (SC) addresses from dApp JavaScript files.
 - [Spring Boot Starter Reactive](https://github.com/crldev-software/multiversx-spring-boot-starter-reactive) - Spring Boot Starter project for integrating with the MultiversX Network, with the goal of achieving an effortless autoconfigured integration with the network.
 - [xSuite](https://github.com/arda-org/xSuite) - Init, Build, Test, Deploy MultiversX smart contracts in seconds. The full suite for efficiently developing high-quality contracts.
+- [NovaX](https://github.com/gfusee/novax) - NovaX is your go-to toolkit for building robust software seamlessly interacting with the MultiversX blockchain
 
 ### Articles and tutorials
 Please be aware that articles can be outdated. Always verify them with the docs.
