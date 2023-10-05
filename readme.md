@@ -140,6 +140,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 - [Fundraising-SC](https://github.com/Vital-Network/Fundraising-SC) - MultiversX Fundraising Smart Contract allowing the creation of pots with or without objectives, with or without deadlines.
 - [AshSwap Aggregator Smart Contract](https://github.com/ashswap/ash-aggregator-sc) - Aggregator smart contracts act as an intermediary router to exchange tokens between multiple protocols.
 - [Nifty Maze & Proxy Ping Smart Contracts](https://github.com/NiftyWell/nifty-maze/tree/main) - smart-contract-based mini-game
+- [Pulsar Money Smart Payment Contract](https://github.com/astrarizon/pulsar-contract) - Pulsar Money is dedicated to redefining digital transfers and offers a suit of Smart Payments Modules.
 
 ### SDKs and dev tools
 
