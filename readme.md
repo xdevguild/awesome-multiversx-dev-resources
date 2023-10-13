@@ -68,6 +68,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 ### Videos
 Please be aware that videos can be outdated. Always verify them with the docs.
 
+- [How to build a dApp from scratch](https://www.youtube.com/watch?v=WYt92NSDXA8)
 - [The Power of Smart Contracts Composability - DEX, Governance, Bridge](https://www.youtube.com/watch?v=BOyMNzsxeFI)
 - [Building Hybrid Apps Between Web2 and Web3 Using MultiversX Libraries](https://www.youtube.com/watch?v=FO41nlIApu4)
 - [Advanced Microservices Architecture](https://www.youtube.com/watch?v=l_hFxmrX-lI)
