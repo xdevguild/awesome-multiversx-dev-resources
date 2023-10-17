@@ -219,6 +219,7 @@ Remember to always be careful when interacting with third-party dApps. Especiall
 - [ESDT Faucet](https://devnet-multiversx-esdt-faucet.netlify.app/) - Deposit and Claim ESDT tokens
 - [xSafe Multisig UI](https://github.com/validblocks/xSafe) - This is the source code of the xSafe Multisig UI for the Multisig SC developed by the MultiversX team.
 - [xSmartDeploy](https://devnet.xsmartdeploy.com/) - Deploy smart contracts through the web app
+- [devnet.Buildo.dev](https://www.devnet.buildo.dev) - Buildo.dev is a MultiversX app that helps with blockchain interactions, like issuing, managing tokens, and querying smart contracts. (Mainnet also available).
 
 ### Dapps Source Code
 
@@ -226,6 +227,7 @@ Remember to always be careful when interacting with third-party dApps. Especiall
 - [Vesting dApp](https://github.com/Moonlorian/vesting-dapp/tree/main/dapp) - Token vesting dApp
 - [Elven Tools Dapp](https://github.com/ElvenTools/elven-tools-dapp) - The dapp used by Elven Tools project
 - [ESDT Faucet Dapp](https://github.com/xdevguild/esdt-faucet-dapp) - The ESDT tokens faucet app for the devnet/testnet
+- [Buildo.dev](https://github.com/xdevguild/buildo.dev) - Buildo.dev is a MultiversX app that helps with blockchain interactions, like issuing, managing tokens and querying smart contracts.
 
 ### Explorers and APIs
 
