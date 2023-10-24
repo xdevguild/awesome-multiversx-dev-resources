@@ -52,6 +52,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 
 ### Articles and tutorials
 
+- [Specifications for mx-sdk-* libraries](https://github.com/multiversx/mx-sdk-specs)
 - [Staking smart contract tutorial](https://docs.multiversx.com/developers/tutorials/staking-contract/)
 - [The Crowdfunding Smart Contract](https://docs.multiversx.com/developers/tutorials/crowdfunding-p1/)
 - [Rust Testing Framework](https://docs.multiversx.com/developers/developer-reference/rust-testing-framework/)
