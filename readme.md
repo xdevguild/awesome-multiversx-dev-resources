@@ -65,6 +65,10 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 - [Smart contract annotations](https://docs.multiversx.com/developers/developer-reference/sc-annotations)
 - [Random Numbers in Smart Contracts](https://docs.multiversx.com/developers/developer-reference/sc-random-numbers/)
 - [Storage Mappers](https://docs.multiversx.com/developers/developer-reference/storage-mappers)
+- [Guard accounts](https://docs.multiversx.com/developers/guard-accounts/)
+- [Relayed Transactions](https://docs.multiversx.com/developers/relayed-transactions/)
+- [Reproducible Builds](https://docs.multiversx.com/developers/reproducible-contract-builds/)
+- [Devcontainers](https://docs.multiversx.com/sdk-and-tools/devcontainers/)
 
 ### Videos
 Please be aware that videos can be outdated. Always verify them with the docs.
