@@ -147,6 +147,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 - [AshSwap Aggregator Smart Contract](https://github.com/ashswap/ash-aggregator-sc) - Aggregator smart contracts act as an intermediary router to exchange tokens between multiple protocols.
 - [Nifty Maze & Proxy Ping Smart Contracts](https://github.com/NiftyWell/nifty-maze/tree/main) - smart-contract-based mini-game
 - [Pulsar Money Smart Payment Contract](https://github.com/astrarizon/pulsar-contract) - Pulsar Money is dedicated to redefining digital transfers and offers a suit of Smart Payments Modules.
+- [PublicFlashLoansSC](https://github.com/PierreBlg/PublicFlashLoansSC) - Flash Loans on top of MultiversX xExchange
 
 ### SDKs and dev tools
 
