@@ -226,6 +226,7 @@ Remember to always be careful when interacting with third-party dApps. Especiall
 - [xSafe Multisig UI](https://github.com/validblocks/xSafe) - This is the source code of the xSafe Multisig UI for the Multisig SC developed by the MultiversX team.
 - [xSmartDeploy](https://devnet.xsmartdeploy.com/) - Deploy smart contracts through the web app
 - [devnet.Buildo.dev](https://www.devnet.buildo.dev) - Buildo.dev is a MultiversX app that helps with blockchain interactions, like issuing, managing tokens, and querying smart contracts. (Mainnet also available).
+- [Spawnable.io](https://spawnable.io/) - Fully automated deployments for your smart contracts & MML objects.
 
 ### Dapps Source Code
 
