@@ -12,6 +12,7 @@
   - [Dev dApps](#dev-dapps)
   - [Explorers and APIs](#explorers-and-apis)
   - [Wallets](#wallets)
+  - [Governance](#governance)
   - [Forum](#forum)
 - [MultiversX community](#multiversx-community)
   - [Smart contracts](#smart-contracts-1)
@@ -123,7 +124,10 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 - [xPortal App](https://xportal.com/) - mobile app
 - [MultiversX Defi Wallet](https://chrome.google.com/webstore/detail/multiversx-defi-wallet/dngmlblcodfobpdpecaadgfbcggfjfnm) - browser extension
 
-## Forum
+### Governance
+- [Governance Voting Portal](https://governance.multiversx.com/) - Enabling ideas to turn into proposals as holders become governors of MultiversX.
+
+### Forum
 - [MultiversX Agora](https://agora.multiversx.com/) - The place of discussions and brainstorming sessions dedicated to the ongoing development, security, and expansion of the MultiversX Protocol.
 - [xExchange Agora](https://agora.xexchange.com/) - Discuss all things related to xExchange. You can also post and discuss drafts of xExchange Improvement Proposals (xEIPs).
 
