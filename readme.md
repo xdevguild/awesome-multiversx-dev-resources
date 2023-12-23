@@ -153,6 +153,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 - [Nifty Maze & Proxy Ping Smart Contracts](https://github.com/NiftyWell/nifty-maze/tree/main) - smart-contract-based mini-game
 - [Pulsar Money Smart Payment Contract](https://github.com/astrarizon/pulsar-contract) - Pulsar Money is dedicated to redefining digital transfers and offers a suit of Smart Payments Modules.
 - [PublicFlashLoansSC](https://github.com/PierreBlg/PublicFlashLoansSC) - Flash Loans on top of MultiversX xExchange
+- [NFTs based on inscriptions](https://github.com/XOXNO/rs-inscriptions) - NFTs with data on-chain, thanks to inscriptions
 
 ### SDKs and dev tools
 
