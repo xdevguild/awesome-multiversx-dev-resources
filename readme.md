@@ -45,7 +45,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 - [Wasm framework](https://github.com/multiversx/mx-sdk-rs) - Rust smart contract library designed for MultiversX VM. Also provides a debugging mode with mocks
 - [Javascript SDK](https://github.com/multiversx/mx-sdk-js-core) - Official TS/JS SDK for interacting with the MultiversX Network and MultiversX Smart Contracts using Javascript (written in Typescript)
 - [React Dapp SDK](https://github.com/multiversx/mx-sdk-dapp) - A library that holds the core functional logic of a dapp on the MultiversX
-- [NextJS SDK](https://github.com/multiversx/mx-sdk-nestjs) - This package contains a set of utilities commonly used in the MultiversX Microservice ecosystem
+- [NestJS SDK](https://github.com/multiversx/mx-sdk-nestjs) - This package contains a set of utilities commonly used in the MultiversX Microservice ecosystem
 - [Python SDK](https://github.com/multiversx/mx-sdk-py-cli) - Command line tools and Python SDK for interacting with the MultiversX Network and MultiversX Smart Contracts
 - [Go SDK](https://github.com/multiversx/mx-sdk-go) - Go helpers and utilities for interacting with the MultiversX Blockchain
 - [Dapp SC Explorer SDK](https://github.com/multiversx/mx-sdk-dapp-sc-explorer) - A library to hold the main logic for Smart Contract Interactions on the MultiversX blockchain
