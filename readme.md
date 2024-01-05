@@ -39,6 +39,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 - [NFT Marketplace](https://github.com/multiversx/mx-nft-marketplace-sc)
 - [NFT Collection Minter](https://github.com/multiversx/mx-nft-collection-minter-sc)
 - [Liquid Staking](https://github.com/multiversx/mx-liquid-staking-sc)
+- [xExchange tools](https://github.com/multiversx/mx-exchange-tools-sc) - Smart contracts on top of the xExchange functionality as extensions for better UX
 
 ### SDKs and dev tools
 
