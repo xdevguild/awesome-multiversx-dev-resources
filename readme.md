@@ -76,6 +76,8 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 ### Videos
 Please be aware that videos can be outdated. Always verify them with the docs.
 
+- [xDay2023 Innovation Stage - Network Interaction SKDs](https://www.youtube.com/watch?v=y6Xc35TivRk)
+- [xDay2023 Innovation Stage - The Many Faces of Smart Contract Execution](https://www.youtube.com/watch?v=Ps1poEFncTY)
 - [How to build a dApp from scratch](https://www.youtube.com/watch?v=WYt92NSDXA8)
 - [The Power of Smart Contracts Composability - DEX, Governance, Bridge](https://www.youtube.com/watch?v=BOyMNzsxeFI)
 - [Building Hybrid Apps Between Web2 and Web3 Using MultiversX Libraries](https://www.youtube.com/watch?v=FO41nlIApu4)
