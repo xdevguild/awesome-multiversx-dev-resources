@@ -195,6 +195,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 - [Spring Boot Starter Reactive](https://github.com/crldev-software/multiversx-spring-boot-starter-reactive) - Spring Boot Starter project for integrating with the MultiversX Network, with the goal of achieving an effortless autoconfigured integration with the network.
 - [xSuite](https://github.com/arda-org/xSuite) - Init, Build, Test, Deploy MultiversX smart contracts in seconds. The full suite for efficiently developing high-quality contracts.
 - [NovaX](https://github.com/gfusee/novax) - NovaX is your go-to toolkit for building robust software seamlessly interacting with the MultiversX blockchain
+- [mx-chain-simulator-interface-rs](https://github.com/gfusee/mx-chain-simulator-interface-rs) - Rust crate that allows you to create a local blockchain in the simulation mode in seconds.
 
 ### Articles and tutorials
 Please be aware that articles can be outdated. Always verify them with the docs.
