@@ -214,6 +214,7 @@ Please be aware that articles can be outdated. Always verify them with the docs.
 ### Videos
 Please be aware that videos can be outdated. Always verify them with the docs.
 
+- [MultiversX Basics list by Helios Staking](https://www.youtube.com/watch?v=Wj5AaoX5ogE&list=PLnF_yy8PvwDLoEJptNThUpKtY-Cy_G-5M)
 - [Everything you need to know to get started with MultiversX](https://youtu.be/ZIPExHInNgU)
 - [MultiversX VSCode IDE extension walkthrough](https://youtu.be/y0beoihLppA)
 - [How to run NFT collection on the MultiversX blockchain](https://youtu.be/resGP6a7_34)
