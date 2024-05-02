@@ -216,6 +216,7 @@ Please be aware that articles can be outdated. Always verify them with the docs.
 ### Videos
 Please be aware that videos can be outdated. Always verify them with the docs.
 
+- [Transfer tokens using MultiversX JavaScript SDK](https://youtu.be/prtL2kx7Bcc)
 - [Intro to MultiversX blockchain interactions with JavaScript SDK](https://youtu.be/Fxxdly9QYHw)
 - [MultiversX Basics list by Helios Staking](https://www.youtube.com/watch?v=Wj5AaoX5ogE&list=PLnF_yy8PvwDLoEJptNThUpKtY-Cy_G-5M)
 - [Everything you need to know to get started with MultiversX](https://youtu.be/ZIPExHInNgU)
