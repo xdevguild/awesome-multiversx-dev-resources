@@ -200,6 +200,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 ### Articles and tutorials
 Please be aware that articles can be outdated. Always verify them with the docs.
 
+- [Transfer tokens using MultiversX JavaScript SDK](https://www.julian.io/articles/multiversx-js-sdk-transfers.html)
 - [Intro to MultiversX blockchain interactions with JavaScript SDK](https://www.julian.io/articles/multiversx-js-sdk-intro.html)
 - [Querying a MultiversX Smart Contract using mxpy](https://medium.com/@gfusee33/tutorial-querying-a-multiversx-smart-contract-using-mxpy-784152dda328)
 - [Linux environment for development](https://elrond-dev-guild.gitbook.io/scrolls/readme/linux-environment-for-development)
