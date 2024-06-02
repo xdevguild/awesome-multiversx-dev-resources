@@ -200,6 +200,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 ### Articles and tutorials
 Please be aware that articles can be outdated. Always verify them with the docs.
 
+- [Mastering smart contract deployment with MultiversX JavaScript SDK](https://www.julian.io/articles/multiversx-js-sdk-sc-deployment.html)
 - [Transfer tokens using MultiversX JavaScript SDK](https://www.julian.io/articles/multiversx-js-sdk-transfers.html)
 - [Intro to MultiversX blockchain interactions with JavaScript SDK](https://www.julian.io/articles/multiversx-js-sdk-intro.html)
 - [Querying a MultiversX Smart Contract using mxpy](https://medium.com/@gfusee33/tutorial-querying-a-multiversx-smart-contract-using-mxpy-784152dda328)
@@ -216,6 +217,7 @@ Please be aware that articles can be outdated. Always verify them with the docs.
 ### Videos
 Please be aware that videos can be outdated. Always verify them with the docs.
 
+- [Mastering smart contract deployment with MultiversX JavaScript SDK](https://youtu.be/Rk-vHqd2avs)
 - [Transfer tokens using MultiversX JavaScript SDK](https://youtu.be/prtL2kx7Bcc)
 - [Intro to MultiversX blockchain interactions with JavaScript SDK](https://youtu.be/Fxxdly9QYHw)
 - [MultiversX Basics list by Helios Staking](https://www.youtube.com/watch?v=Wj5AaoX5ogE&list=PLnF_yy8PvwDLoEJptNThUpKtY-Cy_G-5M)
