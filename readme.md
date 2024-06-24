@@ -200,6 +200,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 ### Articles and tutorials
 Please be aware that articles can be outdated. Always verify them with the docs.
 
+- [From Web2 to Web3: Becoming a Blockchain and Smart Contract Developer](https://x.com/michavie_/status/1804927096684224527)
 - [Mastering smart contract deployment with MultiversX JavaScript SDK](https://www.julian.io/articles/multiversx-js-sdk-sc-deployment.html)
 - [Transfer tokens using MultiversX JavaScript SDK](https://www.julian.io/articles/multiversx-js-sdk-transfers.html)
 - [Intro to MultiversX blockchain interactions with JavaScript SDK](https://www.julian.io/articles/multiversx-js-sdk-intro.html)
