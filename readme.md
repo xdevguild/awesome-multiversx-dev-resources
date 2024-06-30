@@ -200,6 +200,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 ### Articles and tutorials
 Please be aware that articles can be outdated. Always verify them with the docs.
 
+- [Step-by-step guide to MultiversX smart contract interactions with JavaScript SDK](https://www.julian.io/articles/multiversx-js-sdk-sc-interactions.html)
 - [From Web2 to Web3: Becoming a Blockchain and Smart Contract Developer](https://x.com/michavie_/status/1804927096684224527)
 - [Mastering smart contract deployment with MultiversX JavaScript SDK](https://www.julian.io/articles/multiversx-js-sdk-sc-deployment.html)
 - [Transfer tokens using MultiversX JavaScript SDK](https://www.julian.io/articles/multiversx-js-sdk-transfers.html)
@@ -218,6 +219,7 @@ Please be aware that articles can be outdated. Always verify them with the docs.
 ### Videos
 Please be aware that videos can be outdated. Always verify them with the docs.
 
+- [Step-by-step guide to MultiversX smart contract interactions with JavaScript SDK](https://www.youtube.com/watch?v=TMDC5yxT4_c)
 - [Mastering smart contract deployment with MultiversX JavaScript SDK](https://youtu.be/Rk-vHqd2avs)
 - [Transfer tokens using MultiversX JavaScript SDK](https://youtu.be/prtL2kx7Bcc)
 - [Intro to MultiversX blockchain interactions with JavaScript SDK](https://youtu.be/Fxxdly9QYHw)
@@ -237,6 +239,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 ### Dev dApps
 Remember to always be careful when interacting with third-party dApps. Especially when it involves sending seeds, PEM, and keystore files. You should probably avoid that when interacting with the mainnet.
 
+- [Vanity Address Generator](https://wallet.artmakers.io/) - An open-source custom wallet generator for MultiversX
 - [R3D4](https://r3d4.fr) - Faucet, ESDT tools, Stats
 - [Converters for MultiversX Blockchain](http://207.244.241.38/elrond-converters) - This page offers an easy-to-use pack of data converters for interacting with MultiversX Blockchain.
 - [XConverters](https://xconverters.netlify.app/) - Another app that offers data converters but is more automated with better UI/UX
@@ -249,6 +252,7 @@ Remember to always be careful when interacting with third-party dApps. Especiall
 
 ### Dapps Source Code
 
+- [Vanity Address Generator](https://github.com/grobux/mvx-vanity-address) - An open-source custom wallet generator for MultiversX
 - [Middleman.nft](https://www.middleman-nft.com/) - A secure way to exchange NFTs with a smart contract that acts as a trusted third party. Open source code of the frontend [here](https://github.com/yum0e/front-nft-middleman).
 - [Vesting dApp](https://github.com/Moonlorian/vesting-dapp/tree/main/dapp) - Token vesting dApp
 - [Elven Tools Dapp](https://github.com/ElvenTools/elven-tools-dapp) - The dapp used by Elven Tools project
