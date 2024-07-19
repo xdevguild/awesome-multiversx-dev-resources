@@ -219,6 +219,7 @@ Please be aware that articles can be outdated. Always verify them with the docs.
 ### Videos
 Please be aware that videos can be outdated. Always verify them with the docs.
 
+- [Connect, Secure and install your first MultiversX Node](https://www.youtube.com/watch?v=aZnNjMYgyaU)
 - [Step-by-step guide to MultiversX smart contract interactions with JavaScript SDK](https://www.youtube.com/watch?v=TMDC5yxT4_c)
 - [Mastering smart contract deployment with MultiversX JavaScript SDK](https://youtu.be/Rk-vHqd2avs)
 - [Transfer tokens using MultiversX JavaScript SDK](https://youtu.be/prtL2kx7Bcc)
