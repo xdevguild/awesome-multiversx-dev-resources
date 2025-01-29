@@ -197,6 +197,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 - [xSuite](https://github.com/arda-org/xSuite) - Init, Build, Test, Deploy MultiversX smart contracts in seconds. The full suite for efficiently developing high-quality contracts.
 - [NovaX](https://github.com/gfusee/novax) - NovaX is your go-to toolkit for building robust software seamlessly interacting with the MultiversX blockchain
 - [mx-chain-simulator-interface-rs](https://github.com/gfusee/mx-chain-simulator-interface-rs) - Rust crate that allows you to create a local blockchain in the simulation mode in seconds.
+- [MultiversX API Deployer](https://github.com/PhyByte/mvx-api-deployer) - Effortlessly deploy a complete infrastructure to run your own MultiversX API in just a few steps.
 
 ### Articles and tutorials
 Please be aware that articles can be outdated. Always verify them with the docs.
