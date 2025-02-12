@@ -78,6 +78,9 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 ### Videos
 Please be aware that videos can be outdated. Always verify them with the docs.
 
+- [Chapter 1: Create a smart contract](https://www.youtube.com/watch?v=7zAbJQxu5qc&list=PLQVcheGWwBRXkjisV3Wv_w7ky895K9gea)
+- [Chapter 2: Build a backend to interact with your smart contract](https://www.youtube.com/watch?v=8s9XjOsFats&list=PLQVcheGWwBRWsK19xdo-16qZoIFT2F9Cx)
+- [Chapter 3: Build a frontend to your app](https://www.youtube.com/watch?v=cQz41qwFQMI&list=PLQVcheGWwBRWVqn7HPXXPGGb1wO4TczlW)
 - [xDay2023 Innovation Stage - Network Interaction SKDs](https://www.youtube.com/watch?v=y6Xc35TivRk)
 - [xDay2023 Innovation Stage - The Many Faces of Smart Contract Execution](https://www.youtube.com/watch?v=Ps1poEFncTY)
 - [How to build a dApp from scratch](https://www.youtube.com/watch?v=WYt92NSDXA8)
