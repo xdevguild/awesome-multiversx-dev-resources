@@ -145,6 +145,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 
 ### Smart contracts
 
+- [MultiversX Lending & Borrowing Protocol](https://github.com/XOXNO/rs-lending) - where lending, borrowing, and managing your digital assets is not only secure and efficient, but also a fun and flexible experience!
 - [Elven Tools NFT Minter Smart Contract](https://github.com/ElvenTools/elven-nft-minter-sc) - Mint and sell NFT collections. It has features like issue collection, setting creation role, pause/unpause, random minting, giveaway, split minting into batches, and more.
 - [Elven Tools SFT Minter Smart Contract](https://github.com/ElvenTools/elven-tools-sft-minter-sc) - SFT minter and vending machine smart contract
 - [Simple Piggybank Smart Contract](https://github.com/xdevguild/multiversx-simple-sc) - smart contract for learning purposes
